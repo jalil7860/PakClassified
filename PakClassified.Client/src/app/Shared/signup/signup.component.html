@@ -1,0 +1,188 @@
+<div class="signup-page">
+  <div class="container">
+    <div class="row align-items-center min-vh-100 py-4">
+      
+      <!-- Left Side - Welcome Text -->
+      <div class="col-lg-5 mb-4 mb-lg-0">
+        <div class="welcome-content">
+          <div class="brand-logo mb-3">
+            <h2 class="brand-name">Pak<span class="text-success">Classified</span></h2>
+          </div>
+          
+          <h1 class="welcome-title">Start Your Journey Today!</h1>
+          <p class="welcome-subtitle">Join thousands of users buying and selling vehicles across Pakistan</p>
+          
+          <div class="features-list mt-4">
+            <div class="feature-item">
+              <div class="feature-icon">
+                <i class="fas fa-user-plus"></i>
+              </div>
+              <div class="feature-text">
+                <h5>Free Account Creation</h5>
+                <p>Sign up in minutes</p>
+              </div>
+            </div>
+            
+            <div class="feature-item">
+              <div class="feature-icon">
+                <i class="fas fa-tags"></i>
+              </div>
+              <div class="feature-text">
+                <h5>Post Unlimited Ads</h5>
+                <p>List as many vehicles</p>
+              </div>
+            </div>
+            
+            <div class="feature-item">
+              <div class="feature-icon">
+                <i class="fas fa-handshake"></i>
+              </div>
+              <div class="feature-text">
+                <h5>Connect with Buyers</h5>
+                <p>Reach genuine buyers</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Right Side - Signup Form -->
+      <div class="col-lg-7">
+        <div class="signup-form-container">
+          <div class="form-header text-center mb-3">
+            <h2 class="form-title">Create Your Account</h2>
+            <p class="form-subtitle">Fill in your details to get started</p>
+          </div>
+          
+          <form [formGroup] = "SignUpForm" (ngSubmit) = "signupsubmit()">
+            <!-- Name & Email -->
+            <div class="row mb-2">
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Full Name <span class="required">*</span></label>
+                <div class="input-group-custom">
+                  <i class="fas fa-user input-icon"></i>
+                  <input type="text" class="form-control ps-5" formControlName = "name" placeholder="Enter your full name">
+                </div>
+                @if (name_signup?.invalid && name_signup?.touched) {
+                  <div class="d-flex justify-content-start text-danger">
+                    @if (name_signup?.hasError('required')) {
+                      <div>Required</div>
+                    }
+                  </div>
+                }
+              </div>
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Email Address <span class="required">*</span></label>
+                <div class="input-group-custom">
+                  <i class="fas fa-envelope input-icon"></i>
+                  <input type="email" class="form-control ps-5" formControlName = "email" placeholder="Enter your email">
+                </div>
+              </div>
+            </div>
+            
+            <!-- Password & Contact -->
+            <div class="row mb-2">
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Password <span class="required">*</span></label>
+                <div class="input-group-custom">
+                  <i class="fas fa-lock input-icon"></i>
+                  <input type="password" class="form-control ps-5" formControlName = "password" placeholder="Create password">
+                  <i class="fas fa-eye-slash password-toggle"></i>
+                </div>
+              </div>
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Contact Number</label>
+                <div class="input-group-custom">
+                  <i class="fas fa-phone input-icon"></i>
+                  <input type="tel" class="form-control ps-5" formControlName = "contactNumber" placeholder="03XX-XXXXXXX">
+                </div>
+              </div>
+            </div>
+            
+            <!-- Date of Birth & Role -->
+            <div class="row mb-2">
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Date of Birth <span class="required">*</span></label>
+                <div class="input-group-custom">
+                  <i class="fas fa-calendar input-icon"></i>
+                  <input type="date" formControlName = "birthDate" class="form-control ps-5">
+                </div>
+              </div>
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Account Type <span class="required">*</span></label>
+                <select class="form-select custom-select" formControlName = "roleId">
+                  <option value="" selected>Select Role</option>
+                  @for (r of roles; track r.id) {
+                    @if (r.name !== 'Admin' || authService.isAdmin()) {
+                  <option [ngValue]="r.id">{{r.name}}</option>
+                  }
+                  }
+                </select>
+              </div>
+            </div>
+            
+            <!-- Security Question & Answer -->
+            <div class="row mb-2">
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Security Question</label>
+                <select class="form-select custom-select" formControlName = "securityQuestion">
+                  <option value="" selected>Select Question</option>
+                  <option value="pet">First pet name?</option>
+                  <option value="Birth city?">Birth city?</option>
+                  <option value="school">First school?</option>
+                  <option value="teacher">Favorite teacher?</option>
+                </select>
+              </div>
+              <div class="col-md-6 mb-2">
+                <label class="form-label">Security Answer</label>
+                <div class="input-group-custom">
+                  <i class="fas fa-key input-icon"></i>
+                  <input type="text" class="form-control ps-5" formControlName = "securityAnswer" placeholder="Enter answer">
+                </div>
+              </div>
+            </div>
+            
+            <!-- Profile Image -->
+            <div class="mb-2">
+              <label class="form-label">Profile Image</label>
+              <div class="file-upload-box" onclick="document.getElementById('profileImage').click()">
+                <i class="fas fa-camera"></i>
+                <p class="mb-0">Upload Profile Picture</p>
+                <small class="text-muted">JPG, PNG (MAX. 2MB)</small>
+              </div>
+              <input type="file" id="profileImage" (change)="onFileSelected($event)" class="d-none" accept="image/*">
+            </div>
+            
+            <!-- Terms & Conditions -->
+            <div class="form-check mb-2">
+              <input class="form-check-input" type="checkbox" id="terms" required>
+              <label class="form-check-label" for="terms">
+                I agree to the <a href="#" class="terms-link">Terms & Conditions</a>
+              </label>
+            </div>
+            
+            <!-- Signup Button -->
+            <button type="submit" class="btn btn-signup w-100 mb-3">
+              <span>Create Account</span>
+              <i class="fas fa-arrow-right ms-2"></i>
+            </button>
+            
+            <!-- Divider -->
+            <div class="divider">
+              <span>OR</span>
+            </div>
+            
+            <!-- Login Link -->
+            <div class="text-center mt-3">
+              <p class="login-text">
+                Already have an account? 
+                <a [routerLink]="['/login']" routerLinkActive="router-link-active" class="login-link">Login</a>
+              </p>
+            </div>
+          </form>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>

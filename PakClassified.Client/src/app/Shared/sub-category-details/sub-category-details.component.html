@@ -1,0 +1,226 @@
+<!-- Hero Section -->
+<div class="subcategory-hero">
+  <div class="container">
+    <div class="hero-content">
+      <!-- Breadcrumb -->
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb-custom">
+          <li><a routerLink="/">Home</a></li>
+          <li><a routerLink="/categories">Categories</a></li>
+          <li><a [routerLink]="['/category', subCateDetail?.categoryId]">{{subCateDetail?.category?.name}}</a></li>
+          <li class="active">{{subCateDetail?.name}}</li>
+        </ol>
+      </nav>
+
+      <!-- Category Badge -->
+      <div class="category-badge">
+        <i class="ri-folder-line"></i>
+        <span>{{subCateDetail?.category?.name}}</span>
+      </div>
+
+      <h1 class="hero-title">{{subCateDetail?.name}}</h1>
+      <p class="hero-subtitle">{{subCateDetail?.description}}</p>
+    </div>
+  </div>
+</div>
+
+<!-- Stats Section -->
+<div class="stats-section">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">
+            <i class="ri-car-line"></i>
+          </div>
+          <div class="stat-content">
+            <h3 class="stat-number">{{advCount}}</h3>
+            <p class="stat-label">Total Listings</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">
+            <i class="ri-folder-line"></i>
+          </div>
+          <div class="stat-content">
+            <h3 class="stat-number">{{subCateDetail?.category?.name}}</h3>
+            <p class="stat-label">Category</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">
+            <i class="ri-eye-line"></i>
+          </div>
+          <div class="stat-content">
+            <h3 class="stat-number">2.5K</h3>
+            <p class="stat-label">Total Views</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="col-6 col-md-3">
+        <div class="stat-card">
+          <div class="stat-icon">
+            <i class="ri-star-line"></i>
+          </div>
+          <div class="stat-content">
+            <h3 class="stat-number">4.5</h3>
+            <p class="stat-label">Rating</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Main Content Section -->
+<div class="container content-section">
+  <div class="row g-4">
+    
+    <!-- Left Side - Description & Details -->
+    <div class="col-12 col-lg-8">
+      
+      <!-- About Section -->
+      <div class="detail-card">
+        <div class="card-header">
+          <h2 class="card-title">
+            <i class="ri-information-line"></i>
+            About {{subCateDetail?.name}}
+          </h2>
+        </div>
+        <div class="card-body">
+          <!-- Subcategory Image -->
+          <div class="text-center mb-4" *ngIf="subCateDetail?.image">
+            <img [src]="subCateDetail?.image" [alt]="subCateDetail?.name" class="subcategory-image" style="max-width: 400px; border-radius: 15px;">
+          </div>
+          
+          <p class="description-text">
+            {{subCateDetail?.description}}
+          </p>
+          
+          <!-- Key Features -->
+          <div class="features-grid">
+            <div class="feature-item">
+              <i class="ri-checkbox-circle-line"></i>
+              <span>Verified Sellers</span>
+            </div>
+            <div class="feature-item">
+              <i class="ri-checkbox-circle-line"></i>
+              <span>Quality Assured</span>
+            </div>
+            <div class="feature-item">
+              <i class="ri-checkbox-circle-line"></i>
+              <span>Best Prices</span>
+            </div>
+            <div class="feature-item">
+              <i class="ri-checkbox-circle-line"></i>
+              <span>24/7 Support</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Category Info -->
+      <div class="detail-card">
+        <div class="card-header">
+          <h2 class="card-title">
+            <i class="ri-folder-line"></i>
+            Category Information
+          </h2>
+        </div>
+        <div class="card-body">
+          <div class="info-grid">
+            <div class="info-row">
+              <span class="info-label">Parent Category:</span>
+              <span class="info-value">{{subCateDetail?.category?.name}}</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">Sub Category:</span>
+              <span class="info-value">{{subCateDetail?.name}}</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">Total Listings:</span>
+              <span class="info-value">{{advCount}} Vehicles</span>
+            </div>
+            <div class="info-row">
+              <span class="info-label">Status:</span>
+              <span class="info-value">
+                <span class="status-badge active">Active</span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Right Side - Quick Actions -->
+    <div class="col-12 col-lg-4 sticky-card">
+      
+      <!-- Quick Actions Card -->
+      <div class="detail-card">
+        <div class="card-header">
+          <h2 class="card-title">
+            <i class="ri-flashlight-line"></i>
+            Quick Actions
+          </h2>
+        </div>
+        <div class="card-body">
+          <div class="action-buttons">
+            <button class="btn-action primary" [routerLink]="['/listings']" [queryParams]="{subCategory: subCateDetail?.id}">
+              <i class="ri-search-line"></i>
+              Browse All Listings
+            </button>
+            <button class="btn-action secondary">
+              <i class="ri-filter-line"></i>
+              Apply Filters
+            </button>
+            <button class="btn-action outline">
+              <i class="ri-heart-line"></i>
+              Save to Favorites
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Contact Card -->
+      <div class="detail-card">
+        <div class="card-header">
+          <h2 class="card-title">
+            <i class="ri-customer-service-line"></i>
+            Need Help?
+          </h2>
+        </div>
+        <div class="card-body">
+          <p class="help-text">Our team is here to assist you with any queries about this category.</p>
+          <button class="btn-action primary full-width" [routerLink]="['/contact']">
+            <i class="ri-phone-line"></i>
+            Contact Support
+          </button>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<!-- Call to Action -->
+<div class="cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <h2 class="cta-title">Ready to Find Your Perfect Vehicle?</h2>
+      <p class="cta-description">Browse through listings in {{subCateDetail?.name}} category</p>
+      <button class="btn-cta">
+        <i class="ri-car-line"></i>
+        View All Listings
+      </button>
+    </div>
+  </div>
+</div>

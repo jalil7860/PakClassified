@@ -1,0 +1,129 @@
+<div class="search-results-container">
+  <!-- Results Header -->
+  <div class="results-header">
+    <div class="row w-100 align-items-center">
+      <div class="col-md-6">
+        <h2 class="results-title">
+          <i class="fas fa-search me-2"></i>
+          Search Results
+        </h2>
+        <p class="results-subtitle" *ngIf="searchTerm">
+          Showing results for "{{searchTerm}}"
+        </p>
+      </div>
+      <div class="col-md-6 text-md-end">
+        <div class="results-count">
+          <span class="count-badge">{{advertisements.length}}</span>
+          <span class="count-text">vehicles found</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- No Results Message -->
+  <div *ngIf="advertisements.length === 0" class="no-results">
+    <div class="no-results-content text-center">
+      <i class="fas fa-search fa-4x mb-4"></i>
+      <h3>No Vehicles Found</h3>
+      <p>Try adjusting your search criteria or browse all categories</p>
+      <button class="btn btn-primary" routerLink="/categories">
+        <i class="fas fa-layer-group me-2"></i>
+        Browse Categories
+      </button>
+    </div>
+  </div>
+
+  <!-- Results Grid -->
+  <div *ngIf="advertisements.length > 0" class="results-grid">
+    <div class="row g-4 w-100">
+      <div *ngFor="let ad of advertisements" class="col-xl-4 col-lg-6 col-md-6">
+        <div class="vehicle-card">
+          
+          <!-- Image Section -->
+          <div class="card-image">
+            <img [src]="getImage(ad)" [alt]="ad.name" class="vehicle-img">
+            <div class="card-badges">
+              <span class="badge type-badge" *ngIf="ad.type">
+                {{ad.type.name}}
+              </span>
+              <span class="badge status-badge" [class.available]="ad.status?.name === 'Active'" 
+                    [class.sold]="ad.status?.name === 'Sold'">
+                {{ad.status?.name || 'Available'}}
+              </span>
+            </div>
+            <div class="image-overlay">
+              <button class="btn-wishlist">
+                <i class="far fa-heart"></i>
+              </button>
+            </div>
+          </div>
+
+          <!-- Card Body -->
+          <div class="card-body">
+            <!-- Price -->
+            <div class="price-section">
+              <h3 class="price">Rs {{formatPrice(ad.price)}}</h3>
+              <span class="price-label">Negotiable</span>
+            </div>
+
+            <!-- Title -->
+            <h4 class="vehicle-title">{{ad.name}}</h4>
+            <p class="vehicle-description">{{ad.description || ad.description}}</p>
+
+            <!-- Features -->
+            <div class="features-list" *ngIf="ad.features">
+              <div class="feature-item" *ngFor="let feature of ad.features.split(',') | slice:0:3">
+                <i class="fas fa-check-circle"></i>
+                <span>{{feature.trim()}}</span>
+              </div>
+            </div>
+
+            <!-- Location & Date -->
+            <div class="card-meta">
+              <div class="meta-item">
+                <i class="fas fa-map-marker-alt"></i>
+                <span>{{ad.cityArea?.name}}, {{ad.city?.name}}</span>
+              </div>
+              <div class="meta-item">
+                <i class="fas fa-clock"></i>
+                <span>{{getDaysAgo(ad.createdDate)}}</span>
+              </div>
+            </div>
+
+            <!-- Stats -->
+            <div class="card-stats">
+              <div class="stat-item">
+                <i class="fas fa-eye"></i>
+                <span>{{ad.hits || 0}} views</span>
+              </div>
+              <div class="stat-item">
+                <i class="fas fa-calendar"></i>
+                <span>Ends {{ad.endsOn | date:'MMM d'}}</span>
+              </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="card-actions">
+              <button class="btn btn-primary btn-view" [routerLink]="['/vehicle', ad.id]">
+                <i class="fas fa-eye me-2"></i>
+                View Details
+              </button>
+              <button class="btn btn-outline btn-contact">
+                <i class="fas fa-phone me-2"></i>
+                Contact
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Load More Button -->
+  <div *ngIf="advertisements.length > 0" class="load-more-section text-center mt-5">
+    <button class="btn btn-load-more">
+      <i class="fas fa-redo me-2"></i>
+      Load More Vehicles
+    </button>
+  </div>
+</div>

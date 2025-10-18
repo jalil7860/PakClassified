@@ -1,0 +1,69 @@
+<div class="categories-section">
+  <div class="container">
+    
+    <!-- Section Header -->
+    <div class="section-header text-center mb-5">
+      <div class="header-icon">
+        <i class="fas fa-layer-group"></i>
+      </div>
+      <h2 class="section-title">Explore Vehicle Categories</h2>
+      <p class="section-subtitle">Discover your perfect vehicle from our wide range of categories</p>
+    </div>
+
+    <!-- Categories Grid - Horizontal Flow -->
+    @if (Category != null && Category.length > 0) {
+      <div class="categories-grid">
+        <div class="row g-4"> <!-- justify-content-center for centering -->
+          @for (c of Category; track c.id) {
+            <div class="col-12 col-md-6 col-lg-4 col-xl-3"> <!-- More columns for horizontal flow -->
+              <div class="category-card">
+                
+                <!-- Category Image -->
+                <div class="category-image">
+                  <img src="images/Categories 1.png" alt="{{c.name}}">
+                  <div class="category-overlay"></div>
+                  <div class="category-badge">
+                    <span>{{ SubcategoryCounts[c.id]?.length || 0 }} Vehicles</span>
+                  </div>
+                </div>
+
+                <!-- Category Content -->
+                <div class="category-content">
+                  <div class="category-header">
+                    <div class="category-icon">
+                      <i class="fas fa-car"></i>
+                    </div>
+                    <h3 class="category-name">{{c.name}}</h3>
+                  </div>
+                  
+                  <p class="category-description" [title]="c.description">
+                    {{ c.description }}
+                  </p>
+                  
+                  <div class="category-footer">
+                    <div class="vehicle-count">
+                      <i class="fas fa-car-side me-1"></i>
+                      {{SubcategoryCounts[c.id]?.length || 0 }} Available
+                    </div>
+                    <a [routerLink]="['/Category/', c.name, c.id]" class="explore-btn">
+                      Explore
+                      <i class="fas fa-arrow-right ms-1"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          }
+        </div>
+      </div>
+    } @else {
+      <div class="empty-state text-center py-5">
+        <div class="empty-icon">
+          <i class="fas fa-folder-open"></i>
+        </div>
+        <h3 class="empty-title">No Categories Found</h3>
+        <p class="empty-text">Advertisement categories are not available at the moment.</p>
+      </div>
+    }
+  </div>
+</div>

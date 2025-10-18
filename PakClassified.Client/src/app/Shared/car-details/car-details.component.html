@@ -1,0 +1,106 @@
+<img src="CarDetailImg.png" alt="" class="hero-banner">
+<div class="container-fluid py-5">
+ <div class="row g-4">
+  <div class="col-12 col-lg-8">
+    <!-- Main Card with Shadow -->
+    <div class="car-main-card">
+      <div class="details">
+        <div class="car-image-wrapper">
+          <img [src]="[postdetail?.image]" alt="" class="car-image">
+        </div>
+        <div class="car-basic-info">
+          <h3 class="car-title">{{postdetail?.name}}</h3>
+          <div class="car-meta">
+            <p class="meta-item">
+              <i class="ri-map-pin-fill icon-success"></i>
+              <span>{{postdetail?.cityArea?.name}}, {{postdetail?.cityArea?.city?.name  }}</span>
+            </p>
+            <p class="meta-item price-highlight">
+              <i class="ri-money-dollar-circle-fill icon-success"></i>
+              <span>{{formatPrice(postdetail?.price)}} PKR</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Description Card -->
+    <div class="info-card mt-4">
+      <h2 class="section-title">
+        <i class="ri-file-text-line"></i>
+        Car Description
+      </h2>
+      <p class="description-text">{{postdetail?.description}}</p>
+    </div>
+
+    <!-- Features Card -->
+    <div class="info-card mt-4">
+      <h2 class="section-title">
+        <i class="ri-star-line"></i>
+        Features
+      </h2>
+      <div class="features-grid">
+        @for (feature of getFeaturesList(); track $index) {
+          <div class="feature-item">
+            <i class="ri-checkbox-circle-fill feature-icon"></i>
+            <span>{{feature}}</span>
+          </div>
+        }
+      </div>
+    </div>
+  </div>
+
+  <!-- Sidebar -->
+  <div class="col-12 col-lg-4">
+    <div class="sticky-sidebar">
+      <div class="summary-card">
+        <h4 class="summary-title">
+          <i class="ri-information-line"></i>
+          Advertisement Summary
+        </h4>
+        <div class="summary-content">
+          <div class="summary-item">
+            <i class="ri-user-3-line"></i>
+            <div>
+              <span class="label">Seller</span>
+              <span class="value">{{postdetail?.postedBy?.name}}</span>
+            </div>
+          </div>
+          <div class="summary-item">
+            <i class="ri-calendar-line"></i>
+            <div>
+              <span class="label">Posted Date</span>
+              <span class="value">{{postdetail?.createdDate | date}}</span>
+            </div>
+          </div>
+          <div class="summary-item">
+            <i class="ri-map-pin-2-line"></i>
+            <div>
+              <span class="label">Location</span>
+              <span class="value">{{postdetail?.cityArea?.city?.name}}</span>
+            </div>
+          </div>
+          <div class="summary-item price-item">
+            <i class="ri-price-tag-3-line"></i>
+            <div>
+              <span class="label">Price</span>
+              <span class="value-price">{{formatPrice(postdetail?.price)}} PKR</span>
+            </div>
+          </div>
+          <div class="summary-item">
+            <i class="ri-phone-line"></i>
+            <div>
+              <span class="label">Contact</span>
+              <span class="value">{{postdetail?.postedBy?.contactNumber}}</span>
+            </div>
+          </div>
+        </div>
+        <a [href]="getWhatsAppLink()" target="_blank" class="contact-btn">
+          <i class="ri-whatsapp-fill"></i>
+          Contact on WhatsApp
+        </a>
+      </div>
+    </div>
+  </div>
+ </div>
+</div>

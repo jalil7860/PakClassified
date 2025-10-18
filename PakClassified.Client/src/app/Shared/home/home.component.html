@@ -1,0 +1,9 @@
+<app-carousel></app-carousel>
+<app-filters (searchResults)="onSearchResults($event)"></app-filters>
+<app-search-results 
+  *ngIf="searchResults.length > 0"
+  [advertisements]="searchResults"
+  [searchTerm]="searchKeyword">
+</app-search-results>
+<app-categories></app-categories>
+<app-latest-posting></app-latest-posting>

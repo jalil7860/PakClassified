@@ -1,0 +1,201 @@
+<div class="footer-container">
+  <div class="footer-background">
+    <!-- Background Pattern -->
+    <div class="footer-pattern"></div>
+    
+    <!-- Main Footer Content -->
+    <div class="container-fluid pt-5">
+      <div class="container">
+        <div class="row g-5">
+          <!-- Company Info Section -->
+          <div class="col-12 col-md-4">
+            <div class="footer-brand-section">
+              <div class="brand-wrapper mb-4">
+                <div class="brand-icon">
+                  <i class="ri-car-fill"></i>
+                </div>
+                <div>
+                  <h4 class="brand-title text-white mb-1">Pak Classified</h4>
+                  <div class="brand-subtitle">Find Your Perfect Vehicle</div>
+                </div>
+              </div>
+              <p class="company-description">
+                Pakistan's premier automotive marketplace connecting buyers and sellers nationwide. 
+                Discover thousands of verified vehicles with complete transparency and trust.
+              </p>
+              
+              <div class="trust-badges mt-4">
+                <div class="trust-item">
+                  <i class="ri-shield-check-fill"></i>
+                  <span>Verified Listings</span>
+                </div>
+                <div class="trust-item">
+                  <i class="ri-user-voice-fill"></i>
+                  <span>24/7 Support</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Quick Links & Contact -->
+          <div class="col-12 col-md-4">
+            <div class="row g-4">
+              <!-- Quick Links -->
+              <div class="col-6">
+                <div class="footer-section">
+                  <h5 class="section-title">Quick Links</h5>
+                  <div class="section-content">
+                    <a [routerLink]="['/about']" routerLinkActive="router-link-active" class="footer-link">
+                      <i class="ri-arrow-right-s-line"></i>
+                      <span>About Us</span>
+                    </a>
+                    <a href="#" class="footer-link">
+                      <i class="ri-arrow-right-s-line"></i>
+                      <span>Contact Us</span>
+                    </a>
+                    <a href="#" class="footer-link">
+                      <i class="ri-arrow-right-s-line"></i>
+                      <span>Privacy Policy</span>
+                    </a>
+                    <a href="#" class="footer-link">
+                      <i class="ri-arrow-right-s-line"></i>
+                      <span>Terms & Conditions</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Contact Info -->
+              <div class="col-6">
+                <div class="footer-section">
+                  <h5 class="section-title">Contact Info</h5>
+                  <div class="section-content">
+                    <div class="contact-item">
+                      <div class="contact-icon">
+                        <i class="ri-map-pin-2-fill"></i>
+                      </div>
+                      <div class="contact-text">
+                        <span>EVS Institute</span>
+                        <small>Gulberg III, Lahore</small>
+                      </div>
+                    </div>
+                    <div class="contact-item">
+                      <div class="contact-icon">
+                        <i class="ri-phone-fill"></i>
+                      </div>
+                      <div class="contact-text">
+                        <span>0321-1234567</span>
+                        <small>Mon-Sun, 9AM-6PM</small>
+                      </div>
+                    </div>
+                    <div class="contact-item">
+                      <div class="contact-icon">
+                        <i class="ri-mail-fill"></i>
+                      </div>
+                      <div class="contact-text">
+                        <span>info&#64;pakclassified.com</span>
+                        <small>Quick Response</small>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Newsletter & Social -->
+          <div class="col-12 col-md-4">
+            <div class="footer-section">
+              <h5 class="section-title">Stay Updated</h5>
+              <p class="newsletter-description">
+                Get the latest vehicle listings, price updates, and exclusive offers directly in your inbox.
+              </p>
+              
+              <!-- Newsletter Form -->
+              <form (ngSubmit)="onSubscribe()" #newsletterForm="ngForm" class="newsletter-form">
+                <div class="input-group-wrapper">
+                  <div class="form-floating">
+                    <input 
+                      type="email"
+                      [(ngModel)]="email"
+                      name="email"
+                      placeholder="Enter your email"
+                      [disabled]="isLoading"
+                      required
+                      email
+                      #emailInput="ngModel"
+                      class="form-control"
+                      id="newsletterEmail">
+                    <label for="newsletterEmail">Enter your email</label>
+                  </div>
+                  <button 
+                    type="submit" 
+                    class="subscribe-btn"
+                    [disabled]="isLoading || newsletterForm.invalid">
+                    <span class="btn-content">
+                      <span *ngIf="isLoading" class="spinner"></span>
+                      {{ isLoading ? 'Sending...' : 'Subscribe' }}
+                    </span>
+                    <i class="ri-send-plane-fill"></i>
+                  </button>
+                </div>
+                
+                <!-- Validation Messages -->
+                <div *ngIf="emailInput.invalid && emailInput.touched" class="validation-messages">
+                  <small *ngIf="emailInput.errors?.['required']" class="error-message">Email is required</small>
+                  <small *ngIf="emailInput.errors?.['email']" class="error-message">Please enter a valid email</small>
+                </div>
+                
+                <!-- Success/Error Messages -->
+                <div *ngIf="message" 
+                     class="alert-message"
+                     [ngClass]="{'success': messageType === 'success', 'error': messageType === 'error'}">
+                  <i [class]="messageType === 'success' ? 'ri-checkbox-circle-fill' : 'ri-error-warning-fill'"></i>
+                  <span>{{ message }}</span>
+                </div>
+              </form>
+              
+              <!-- Social Media -->
+              <div class="social-section d-flex align-items-center justify-content-center">
+                <div class=" social-links">
+                  <a href="#" class="social-link">
+                    <i class="ri-facebook-fill"></i>
+                  </a>
+                  <a href="#" class="social-link">
+                    <i class="ri-twitter-fill"></i>
+                  </a>
+                  <a href="#" class="social-link">
+                    <i class="ri-instagram-fill"></i>
+                  </a>
+                  <a href="#" class="social-link">
+                    <i class="ri-youtube-fill"></i>
+                  </a>
+                  <a href="#" class="social-link">
+                    <i class="ri-linkedin-fill"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Copyright -->
+        <div class="footer-bottom">
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <p class="copyright-text">
+                &copy; 2023 Pak Classified. All rights reserved.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <div class="footer-bottom-links">
+                <a href="#" class="bottom-link">Privacy Policy</a>
+                <a href="#" class="bottom-link">Terms of Service</a>
+                <a href="#" class="bottom-link">Cookie Policy</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

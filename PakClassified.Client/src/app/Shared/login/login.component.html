@@ -1,0 +1,138 @@
+<div class="login-page">
+  <div class="container">
+    <div class="row align-items-center min-vh-100 py-5">
+      
+      <!-- Left Side - Welcome Text -->
+      <div class="col-lg-6 mb-5 mb-lg-0">
+        <div class="welcome-content">
+          <div class="brand-logo mb-4">
+            <h2 class="brand-name">Pak<span class="text-success">Classified</span></h2>
+          </div>
+          
+          <h1 class="welcome-title">Welcome Back!</h1>
+          <p class="welcome-subtitle">Your journey to finding the perfect vehicle starts here</p>
+          
+          <div class="features-list mt-5">
+            <div class="feature-item">
+              <div class="feature-icon">
+                <i class="fas fa-car"></i>
+              </div>
+              <div class="feature-text">
+                <h5>Browse Thousands of Vehicles</h5>
+                <p>Access Pakistan's largest marketplace for cars, bikes, and more</p>
+              </div>
+            </div>
+            
+            <div class="feature-item">
+              <div class="feature-icon">
+                <i class="fas fa-shield-alt"></i>
+              </div>
+              <div class="feature-text">
+                <h5>Secure & Trusted Platform</h5>
+                <p>Your data is safe with our encrypted security system</p>
+              </div>
+            </div>
+            
+            <div class="feature-item">
+              <div class="feature-icon">
+                <i class="fas fa-bolt"></i>
+              </div>
+              <div class="feature-text">
+                <h5>Quick & Easy Posting</h5>
+                <p>List your vehicle in minutes and reach thousands of buyers</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Right Side - Login Form -->
+      <div class="col-lg-6">
+        <div class="login-form-container">
+          <div class="form-header text-center mb-4">
+            <h2 class="form-title">Login to Your Account</h2>
+            <p class="form-subtitle">Enter your credentials to continue</p>
+          </div>
+          
+          <form [formGroup]="loginForm" (ngSubmit)="LoginSubmit()">
+            <!-- Email Field -->
+            <div class="mb-3">
+              <label class="form-label">Email Address <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-envelope input-icon"></i>
+                <input type="email" class="form-control ps-5" formControlName="email" placeholder="Enter your email">
+              </div>
+              @if (email_login?.invalid && email_login?.touched) {
+                <div class="d-flex justify-content-start text-danger">
+                  @if (email_login?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+            
+            <!-- Password Field -->
+            <div class="mb-3">
+              <label class="form-label">Password <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-lock input-icon"></i>
+                <input type="password" class="form-control ps-5" formControlName="password" placeholder="Enter your password">
+                <i class="fas fa-eye-slash password-toggle"></i>
+              </div>
+              @if (password_login?.invalid && password_login?.touched) {
+                <div class="d-flex justify-content-start text-danger">
+                  @if (password_login?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+            
+            <!-- Remember Me & Forgot Password -->
+            <div class="d-flex justify-content-between align-items-center mb-4">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="rememberMe">
+                <label class="form-check-label" for="rememberMe">
+                  Remember me
+                </label>
+              </div>
+              <a routerLink="/forgot-password" class="forgot-link">Forgot Password?</a>
+            </div>
+            
+            <!-- Login Button -->
+            <button type="submit" class="btn btn-login w-100 mb-3">
+              <span>Login</span>
+              <i class="fas fa-arrow-right ms-2"></i>
+            </button>
+            
+            <!-- Divider -->
+            <div class="divider">
+              <span>OR</span>
+            </div>
+            
+            <!-- Social Login -->
+            <!-- <div class="social-login">
+              <button type="button" class="btn btn-social btn-google">
+                <i class="fab fa-google me-2"></i>
+                Continue with Google
+              </button>
+              <button type="button" class="btn btn-social btn-facebook">
+                <i class="fab fa-facebook-f me-2"></i>
+                Continue with Facebook
+              </button>
+            </div> -->
+            
+            <!-- Sign Up Link -->
+            <div class="text-center mt-4">
+              <p class="signup-text">
+                Don't have an account? 
+                <a [routerLink]="['/signup']" routerLinkActive="router-link-active"  class="signup-link">Sign Up</a>
+              </p>
+            </div>
+          </form>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>

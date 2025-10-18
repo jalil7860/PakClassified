@@ -1,0 +1,19 @@
+@if (loadingService.isLoading$ | async)
+{
+  <div class="loader-overlay">
+    <div class="loader-container">
+      
+      <!-- Spinner Circle -->
+      <div class="spinner-wrapper">
+        <div class="spinner-circle"></div>
+        <div class="spinner-icon">
+          <i class="ri-car-line"></i>
+        </div>
+      </div>
+
+      <!-- Loading Text -->
+      <p class="loading-text">Loading...</p>
+
+    </div>
+  </div>
+}

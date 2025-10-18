@@ -1,0 +1,67 @@
+<div class="navbar-top">
+  <div class="container-fluid">
+    <div class="top-nav-content">
+      
+      <!-- Left Side - Welcome Message -->
+      <div class="welcome-message">
+        <i class="fas fa-map-marker-alt me-2"></i>
+        <span>Welcome to Pakistan's Largest Vehicle Marketplace</span>
+      </div>
+
+      <!-- Right Side - Auth Buttons -->
+      <div class="auth-buttons">
+        @if (!authservice.isLoggedIn()) {
+          <a [routerLink]="['/login']" class="auth-btn login-btn">
+            <i class="fas fa-sign-in-alt me-2"></i>
+            Login
+          </a>
+          <a [routerLink]="['/signup']" class="auth-btn signup-btn">
+            <i class="fas fa-user-plus me-2"></i>
+            Sign Up
+          </a>
+        } @else {
+          <!-- User Dropdown -->
+          <div class="dropdown user-dropdown">
+            <button class="dropdown-toggle user-profile-btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <div class="user-avatar">
+                <img [src]="authservice.getUserFromStorage()?.image || 'default-avatar.png'" 
+                     [alt]="authservice.getUserFromStorage()?.name" 
+                     class="user-img">
+                <span class="user-status"></span>
+              </div>
+              <div class="user-info">
+                <span class="user-name">{{authservice.getUserFromStorage()?.name}}</span>
+                <span class="user-role">{{authservice.getUserFromStorage()?.role?.name}}</span>
+              </div>
+              <i class="fas fa-chevron-down dropdown-arrow"></i>
+            </button>
+            <ul class="dropdown-menu user-dropdown-menu">
+              <li>
+                <a class="dropdown-item" [routerLink]="['/user/dashboard']">
+                  <i class="fas fa-tachometer-alt me-2"></i>
+                  Dashboard
+                </a>
+              </li>
+              <li><hr class="dropdown-divider"></li>
+              <li>
+                <button class="dropdown-item logout-btn" (click)="authservice.logout()">
+                  <i class="fas fa-sign-out-alt me-2"></i>
+                  Logout
+                </button>
+              </li>
+            </ul>
+          </div>
+        }
+        
+        <!-- Language Selector -->
+        <div class="language-selector">
+          <i class="fas fa-globe me-1"></i>
+          <select class="lang-select">
+            <option value="en">EN</option>
+            <option value="ur">UR</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

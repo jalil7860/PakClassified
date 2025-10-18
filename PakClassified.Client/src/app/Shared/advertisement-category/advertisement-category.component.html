@@ -1,0 +1,103 @@
+<!-- Hero Section -->
+<div class="subcategory-hero">
+  <div class="container">
+    <div class="hero-content">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb-custom">
+          <li><a href="/">Home</a></li>
+          <li><a href="/categories">Categories</a></li>
+          <li class="active">{{SubCategory[0]?.category?.name}}</li>
+        </ol>
+      </nav>
+      <h1 class="hero-title">Explore Our Collection</h1>
+      <p class="hero-subtitle">Find your perfect vehicle from our curated selection</p>
+    </div>
+  </div>
+</div>
+
+<!-- Sub Categories Grid -->
+<div class="container subcategory-content">
+  <div class="section-header">
+    <h2 class="section-title">Available Sub Categories</h2>
+    <p class="section-description">Browse through different types of vehicles</p>
+  </div>
+
+  <div class="row g-4">
+    @for (sc of SubCategory; track sc.id) {
+      <div class="col-12 col-md-6 col-lg-4">
+        <div class="subcategory-card">
+          <!-- Card Image -->
+          <div class="card-image-wrapper">
+            <img 
+              [src]="sc.image || 'images/advertisement Categories 01.png'" 
+              [alt]="sc.name" 
+              class="card-image" 
+            />
+            <div class="card-overlay">
+              <span class="view-badge">
+                <i class="ri-eye-line"></i> View Details
+              </span>
+            </div>
+          </div>
+
+          <!-- Card Content -->
+          <div class="card-content">
+            <h3 class="card-title">{{sc.name}}</h3>
+            <p class="card-description">
+              {{sc.description || 'Description Not Available'}}
+            </p>
+
+            <!-- Card Footer -->
+            <div class="card-footer">
+              <div class="card-stats">
+                <span class="stat-item">
+                  <i class="ri-car-line"></i>
+                  <span>Available</span>
+                </span>
+              </div>
+              <a [routerLink]="['sub/', sc.name, sc.id]" class="btn-explore">
+                Explore
+                <i class="ri-arrow-right-line"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    }
+  </div>
+
+  <!-- Empty State -->
+  @if (SubCategory.length === 0) {
+    <div class="empty-state">
+      <i class="ri-inbox-line empty-icon"></i>
+      <h3 class="empty-title">No Sub Categories Found</h3>
+      <p class="empty-description">There are no sub categories available in this section yet.</p>
+      <a href="/categories" class="btn-back-home">
+        <i class="ri-arrow-left-line"></i>
+        Back to Categories
+      </a>
+    </div>
+  }
+</div>
+
+<!-- Call to Action Section -->
+<div class="cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <div class="cta-text">
+        <h2 class="cta-title">Can't Find What You're Looking For?</h2>
+        <p class="cta-description">Browse all our categories or contact our support team for assistance</p>
+      </div>
+      <div class="cta-actions">
+        <a href="/categories" class="btn-cta-primary">
+          <i class="ri-apps-line"></i>
+          All Categories
+        </a>
+        <a href="/contact" class="btn-cta-secondary">
+          <i class="ri-customer-service-line"></i>
+          Contact Support
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

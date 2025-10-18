@@ -1,0 +1,189 @@
+<div class="admin-categories-page">
+  <div class="container-fluid py-4">
+    
+    <!-- Page Header -->
+    <div class="page-header mb-4">
+      <div class="d-flex align-items-center justify-content-between">
+        <div>
+          <h2 class="page-title mb-1">
+            <i class="fas fa-layer-group me-2"></i>Manage Categories
+          </h2>
+          <p class="page-subtitle mb-0">Create and organize your advertisement categories</p>
+        </div>
+        <div class="stats-badges">
+          <span class="badge bg-success me-2">
+            <i class="fas fa-folder me-1"></i>{{totalCategories}} Categories
+          </span>
+          <span class="badge bg-info">
+            <i class="fas fa-tags me-1"></i>{{totalSubCategories}} Sub Categories
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-4">
+      
+      <!-- Left Side - Add Category -->
+      <div class="col-lg-6">
+        <div class="form-card">
+          <div class="form-card-header">
+            <div class="d-flex align-items-center">
+              <div class="icon-box bg-success">
+                <i class="fas fa-folder-plus"></i>
+              </div>
+              <div class="ms-3">
+                <h5 class="card-title mb-0">Add New Category</h5>
+                <p class="card-subtitle mb-0">Create a main category for listings</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="form-card-body">
+            <form [formGroup]="CategoryForm" (ngSubmit)="CategorySubmit()">
+              <!-- Category Name -->
+              <div class="mb-3">
+                <label class="form-label">Category Name <span class="required">*</span></label>
+                <input type="text" class="form-control" formControlName="name" placeholder="e.g., Cars, Bikes, Trucks">
+              </div>
+              
+              <!-- Category Description -->
+              <div class="mb-3">
+                <label class="form-label">Description <span class="required">*</span></label>
+                <textarea class="form-control" rows="3" formControlName="description" placeholder="Brief description of this category"></textarea>
+              </div>
+              
+              <!-- Category Image -->
+              <div class="mb-3">
+                <label class="form-label">Category Icon/Image</label>
+                <div class="upload-box" onclick="document.getElementById('categoryImage').click()">
+                  <i class="fas fa-image"></i>
+                  <span>Click to upload image</span>
+                  <small class="text-muted d-block mt-1">PNG, JPG (Max 1MB)</small>
+                </div>
+                <input type="file" id="categoryImage" (change)="onFileSelected($event, 'category')" class="d-none" accept="image/*">
+              </div>
+              
+              <!-- Submit Button -->
+              <button type="submit" class="btn btn-success w-100">
+                <i class="fas fa-plus-circle me-2"></i>Create Category
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Right Side - Add Sub Category -->
+      <div class="col-lg-6">
+        <div class="form-card">
+          <div class="form-card-header">
+            <div class="d-flex align-items-center">
+              <div class="icon-box bg-primary">
+                <i class="fas fa-tag"></i>
+              </div>
+              <div class="ms-3">
+                <h5 class="card-title mb-0">Add Sub Category</h5>
+                <p class="card-subtitle mb-0">Create a sub category under main category</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="form-card-body">
+            <form [formGroup]="SubCategoryForm" (ngSubmit)="SubCategorySubmit()">
+              <!-- Parent Category Dropdown -->
+              <div class="mb-3">
+                <label class="form-label">Select Parent Category <span class="required">*</span></label>
+                <select class="form-select custom-select" formControlName = "categoryId">
+                  <option value="" selected>Choose Category</option>
+                  @for (c of Category; track c.id) {
+                  <option [ngValue]="c.id">{{c.name}}</option>
+                  }
+                </select>
+              </div>
+              
+              <!-- Sub Category Name -->
+              <div class="mb-3">
+                <label class="form-label">Sub Category Name <span class="required">*</span></label>
+                <input type="text" class="form-control" formControlName="name" placeholder="e.g., Sedan, SUV, Hatchback">
+                @if (name_subcategory?.invalid && name_subcategory?.touched) {
+                  <div class="d-flex ms-3 justify-content-start text-danger">
+                    @if (name_subcategory?.hasError('required')) {
+                      <div>Required</div>
+                    }
+                  </div>
+                }
+              </div>
+              
+              <!-- Sub Category Description -->
+              <div class="mb-3">
+                <label class="form-label">Description <span class="required">*</span></label>
+                <textarea class="form-control" rows="3" formControlName = "description" placeholder="Brief description of this sub category"></textarea>
+                @if (description_subcategory?.invalid && description_subcategory?.touched) {
+                  <div class="d-flex ms-3 justify-content-start text-danger">
+                    @if (description_subcategory?.hasError('required')) {
+                      <div>Required</div>
+                    }
+                  </div>
+                }
+              </div>
+              
+              <!-- Sub Category Image -->
+              <div class="mb-3">
+                <label class="form-label">Sub Category Image</label>
+                <div class="upload-box" onclick="document.getElementById('subCategoryImage').click()">
+                  <i class="fas fa-image"></i>
+                  <span>Click to upload image</span>
+                  <small class="text-muted d-block mt-1">PNG, JPG (Max 1MB)</small>
+                </div>
+                <input type="file" id="subCategoryImage" (change)="onFileSelected($event, 'subcategory')" class="d-none" accept="image/*">
+              </div>
+              
+              <!-- Submit Button -->
+              <button type="submit" class="btn btn-primary w-100">
+                <i class="fas fa-plus-circle me-2"></i>Create Sub Category
+              </button>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+    <!-- Quick Stats Info -->
+    <div class="row g-3 mt-3">
+      <div class="col-md-4">
+        <div class="stat-card">
+          <div class="stat-icon bg-success-subtle">
+            <i class="fas fa-folder text-success"></i>
+          </div>
+          <div class="stat-content">
+            <h6 class="stat-label">Total Categories</h6>
+            <h3 class="stat-value">{{totalCategories}}</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="stat-card">
+          <div class="stat-icon bg-primary-subtle">
+            <i class="fas fa-tags text-primary"></i>
+          </div>
+          <div class="stat-content">
+            <h6 class="stat-label">Sub Categories</h6>
+            <h3 class="stat-value">{{totalSubCategories}}</h3>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="stat-card">
+          <div class="stat-icon bg-info-subtle">
+            <i class="fas fa-bullhorn text-info"></i>
+          </div>
+          <div class="stat-content">
+            <h6 class="stat-label">Active Listings</h6>
+            <h3 class="stat-value">{{activeListings}}</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

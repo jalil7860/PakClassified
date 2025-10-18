@@ -1,0 +1,81 @@
+<div class="carousel-container">
+  <div id="pakClassifiedCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000">
+    
+    <!-- Carousel Indicators -->
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#pakClassifiedCarousel" data-bs-slide-to="0" class="active"></button>
+      <button type="button" data-bs-target="#pakClassifiedCarousel" data-bs-slide-to="1"></button>
+    </div>
+    
+    <div class="carousel-inner">
+      
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+        <img src="Carousel/Carousel-01.png" class="d-block w-100" alt="Car Deals" loading="lazy">
+        <div class="carousel-overlay"></div>
+        
+        <!-- Content for Slide 1 -->
+        <div class="carousel-content">
+          <div class="carousel-text text-white">
+            <h1 class="display-3 fw-bold mb-4 text-shadow">
+              Shift Into Gear: <br> Your Destination <br> for Car Excellence
+            </h1>
+            <p class="fs- fw-medium mb-4 opacity-75">
+              Drive Your Dream: Find Your Perfect Car Today.
+            </p>
+            <div class="d-flex flex-wrap gap-3 btn-group-mobile">
+              <button class="carousel-btn btn-primary-carousel">
+                <i class="ri-search-line me-2"></i> Search a Car
+              </button>
+              @if (authService.isLoggedIn()) {
+              <button [routerLink]="['/post-ad']" class="carousel-btn btn-outline-carousel">
+                <i class="ri-add-circle-line me-2"></i> Post Advertisement
+              </button>
+              }
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Slide 2 -->
+      <div class="carousel-item">
+        <img src="Carousel/Carousel-02.png" class="d-block w-100" alt="Classifieds" loading="lazy">
+        <div class="carousel-overlay"></div>
+        
+        <!-- Content for Slide 2 -->
+        <div class="carousel-content">
+          <div class="carousel-text text-white">
+            <h1 class="display-3 fw-bold mb-4 text-shadow">
+              Find Your Perfect <br> Vehicle with <br> Confidence
+            </h1>
+            <p class="fs-4 fw-medium mb-4 opacity-75">
+              Trusted by thousands of buyers and sellers.
+            </p>
+            <div class="d-flex flex-wrap gap-3 btn-group-mobile">
+              <button class="carousel-btn btn-primary-carousel">
+                <i class="ri-search-line me-2"></i> Browse Vehicles
+              </button>
+              @if (authService.isLoggedIn()) {
+              <button [routerLink]="['/post-ad']" class="carousel-btn btn-outline-carousel">
+                <i class="ri-add-circle-line me-2"></i> Sell Your Car
+              </button>
+            }
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Custom Vertical Controls -->
+    <div class="carousel-controls-vertical">
+      <button class="carousel-control-next" type="button" data-bs-target="#pakClassifiedCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+      <button class="carousel-control-prev" type="button" data-bs-target="#pakClassifiedCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+    </div>
+  </div>
+</div>
