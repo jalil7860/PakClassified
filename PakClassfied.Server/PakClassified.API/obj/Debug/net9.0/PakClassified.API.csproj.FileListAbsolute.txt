@@ -1,0 +1,374 @@
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.deps.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.exe
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\appsettings.Development.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\appsettings.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.staticwebassets.endpoints.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.exe
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.deps.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.runtimeconfig.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Azure.Core.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Azure.Identity.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.ClientModel.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Memory.Data.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Text.Json.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.AssemblyReference.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfoInputs.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfo.cs
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.CoreCompileInputs.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\scopedcss\bundle\PakClassified.API.styles.css
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.development.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.PakClassified.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.PakClassified.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.build.PakClassified.API.props
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PakClassified.API.props
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PakClassified.API.props
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.pack.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClass.4B444DD7.Up2Date
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\refint\PakClassified.API.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.genruntimeconfig.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\ref\PakClassified.API.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cs
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\appsettings.Development.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\appsettings.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.staticwebassets.endpoints.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.deps.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.exe
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.exe
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.deps.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.runtimeconfig.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.API.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Azure.Core.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Azure.Identity.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.ClientModel.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Memory.Data.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Text.Json.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\bin\Debug\net9.0\PakClassified.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.AssemblyReference.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfoInputs.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfo.cs
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.CoreCompileInputs.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cs
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\scopedcss\bundle\PakClassified.API.styles.css
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.development.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.PakClassified.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.PakClassified.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.build.PakClassified.API.props
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PakClassified.API.props
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PakClassified.API.props
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.pack.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClass.4B444DD7.Up2Date
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\refint\PakClassified.API.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\PakClassified.API.genruntimeconfig.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.API\obj\Debug\net9.0\ref\PakClassified.API.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\appsettings.Development.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\appsettings.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.deps.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.exe
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.staticwebassets.endpoints.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.exe
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.deps.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.runtimeconfig.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Azure.Core.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.AssemblyReference.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfoInputs.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfo.cs
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.CoreCompileInputs.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\scopedcss\bundle\PakClassified.API.styles.css
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClass.4B444DD7.Up2Date
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\refint\PakClassified.API.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.genruntimeconfig.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\ref\PakClassified.API.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\appsettings.Development.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\appsettings.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.staticwebassets.endpoints.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.deps.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.exe
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.exe
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.deps.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.runtimeconfig.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.API.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Azure.Core.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Azure.Identity.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.ClientModel.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Drawing.Common.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Memory.Data.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Security.Permissions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.Models.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\bin\Debug\net9.0\PakClassified.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.AssemblyReference.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfoInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.AssemblyInfo.cs
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.csproj.CoreCompileInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cs
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.MvcApplicationPartsAssemblyInfo.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\scopedcss\bundle\PakClassified.API.styles.css
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.development.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClass.4B444DD7.Up2Date
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\refint\PakClassified.API.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.genruntimeconfig.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\ref\PakClassified.API.dll

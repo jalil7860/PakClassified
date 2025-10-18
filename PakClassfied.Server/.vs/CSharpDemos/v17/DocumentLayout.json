@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433E6709-1935-4F0E-BA0B-FFE35EFBB444}|PakClassified.API\\PakClassified.API.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E6709-1935-4F0E-BA0B-FFE35EFBB444}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E6709-1935-4F0E-BA0B-FFE35EFBB444}|PakClassified.API\\PakClassified.API.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E6709-1935-4F0E-BA0B-FFE35EFBB444}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433E6709-1935-4F0E-BA0B-FFE35EFBB444}|PakClassified.API\\PakClassified.API.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433E6709-1935-4F0E-BA0B-FFE35EFBB444}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PakClassified.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:25:56.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PakClassified.API\\WeatherForecast.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified.API\\WeatherForecast.cs",
+              "RelativeToolTip": "PakClassified.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:35:48.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified.API\\Program.cs",
+              "RelativeDocumentMoniker": "PakClassified.API\\Program.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified.API\\Program.cs",
+              "RelativeToolTip": "PakClassified.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:35:47.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

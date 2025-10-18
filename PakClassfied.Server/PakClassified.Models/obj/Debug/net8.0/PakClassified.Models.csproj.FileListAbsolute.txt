@@ -1,0 +1,44 @@
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfoInputs.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfo.cs
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.csproj.CoreCompileInputs.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.deps.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\refint\PakClassified.Models.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\ref\PakClassified.Models.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.deps.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfoInputs.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfo.cs
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.csproj.CoreCompileInputs.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\refint\PakClassified.Models.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified.Models\obj\Debug\net8.0\ref\PakClassified.Models.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.deps.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfoInputs.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfo.cs
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.csproj.CoreCompileInputs.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\refint\PakClassified.Models.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\ref\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.deps.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Debug\net8.0\PakClassified.Models.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfoInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.AssemblyInfo.cs
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.csproj.CoreCompileInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\refint\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\ref\PakClassified.Models.dll

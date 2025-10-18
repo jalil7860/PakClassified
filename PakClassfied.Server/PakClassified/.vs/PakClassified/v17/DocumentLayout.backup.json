@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified\\pakclassified\\loaction\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\loaction\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified\\pakclassified\\loaction\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\loaction\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified\\pakclassified\\loaction\\cityarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\loaction\\cityarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|f:\\dotnet\\c#\\project - pakclassified\\pakclassified\\pakclassified\\loaction\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44086665-6EFE-4498-945F-3BEBD7E98978}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\loaction\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Country.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\Country.cs",
+              "RelativeDocumentMoniker": "PakClassified\\Loaction\\Country.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\Country.cs",
+              "RelativeToolTip": "PakClassified\\Loaction\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:26:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Province.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\Province.cs",
+              "RelativeDocumentMoniker": "PakClassified\\Loaction\\Province.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\Province.cs",
+              "RelativeToolTip": "PakClassified\\Loaction\\Province.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:25:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityArea.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\CityArea.cs",
+              "RelativeDocumentMoniker": "PakClassified\\Loaction\\CityArea.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\CityArea.cs",
+              "RelativeToolTip": "PakClassified\\Loaction\\CityArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:25:44.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\City.cs",
+              "RelativeDocumentMoniker": "PakClassified\\Loaction\\City.cs",
+              "ToolTip": "F:\\DOTNET\\C#\\PROJECT - PakClassified\\PakClassified\\PakClassified\\Loaction\\City.cs",
+              "RelativeToolTip": "PakClassified\\Loaction\\City.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:22:21.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

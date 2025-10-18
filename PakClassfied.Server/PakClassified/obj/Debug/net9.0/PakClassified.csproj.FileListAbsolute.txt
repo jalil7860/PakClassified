@@ -1,0 +1,1132 @@
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_16(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_29(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_03_30(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_05(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_06(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_12(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_04_19(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Humanizer.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Text.Json.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_17(D422) - EntityFramework\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Humanizer.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Text.Json.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_18(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Humanizer.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Text.Json.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\EVS-Angular-Classes\DOTNET-422\2025_05_24(D422)\CSharpDemos\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.exe
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Humanizer.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Text.Json.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+F:\DOTNET\C#\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.exe
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Humanizer.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Text.Json.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+F:\DOTNET\CSharp\PROJECT - PakClassified\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.exe
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Humanizer.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
+D:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\BCrypt.Net-Next.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.exe
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.deps.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.runtimeconfig.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\PakClassified.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Azure.Core.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Azure.Identity.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\BCrypt.Net-Next.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Humanizer.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\Mono.TextTemplating.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.ClientModel.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.CodeDom.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.Convention.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.Hosting.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.Runtime.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Composition.TypedParts.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Drawing.Common.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Memory.Data.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Runtime.Caching.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Security.Permissions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\System.Windows.Extensions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.csproj.AssemblyReference.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfoInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.AssemblyInfo.cs
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.csproj.CoreCompileInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClass.22CF1C15.Up2Date
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\refint\PakClassified.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\PakClassified.genruntimeconfig.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified\obj\Debug\net9.0\ref\PakClassified.dll
