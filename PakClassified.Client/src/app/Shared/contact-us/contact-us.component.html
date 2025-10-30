@@ -79,18 +79,27 @@
           <p>Have a question? Fill out the form below and we'll get back to you as soon as possible.</p>
         </div>
         
-        <form class="contact-form">
+        <form class="contact-form" (ngSubmit)="onSubmit()" #contactForm="ngForm">
           <div class="row g-3 mb-3">
             <div class="col-md-6">
               <div class="input-group">
                 <i class="material-icons">person</i>
-                <input type="text" class="form-control" placeholder="Your Name" required>
+                <input type="text" class="form-control" placeholder="Your Name" 
+                       [(ngModel)]="formData.name" name="name" #name="ngModel" required>
+              </div>
+              <div *ngIf="name.invalid && (name.dirty || name.touched)" class="text-danger small mt-1">
+                <div *ngIf="name.errors?.['required']">Name is required</div>
               </div>
             </div>
             <div class="col-md-6">
               <div class="input-group">
                 <i class="material-icons">email</i>
-                <input type="email" class="form-control" placeholder="Your Email" required>
+                <input type="email" class="form-control" placeholder="Your Email" 
+                       [(ngModel)]="formData.email" name="email" #email="ngModel" required>
+              </div>
+              <div *ngIf="email.invalid && (email.dirty || email.touched)" class="text-danger small mt-1">
+                <div *ngIf="email.errors?.['required']">Email is required</div>
+                <div *ngIf="email.errors?.['email']">Please enter a valid email</div>
               </div>
             </div>
           </div>
@@ -98,20 +107,45 @@
           <div class="mb-3">
             <div class="input-group">
               <i class="material-icons">subject</i>
-              <input type="text" class="form-control" placeholder="Subject" required>
+              <input type="text" class="form-control" placeholder="Subject" 
+                     [(ngModel)]="formData.subject" name="subject" #subject="ngModel" required>
+            </div>
+            <div *ngIf="subject.invalid && (subject.dirty || subject.touched)" class="text-danger small mt-1">
+              <div *ngIf="subject.errors?.['required']">Subject is required</div>
             </div>
           </div>
           
           <div class="mb-4">
             <div class="input-group textarea-group">
               <i class="material-icons">edit_note</i>
-              <textarea class="form-control" rows="6" placeholder="Your Message..." required></textarea>
+              <textarea class="form-control" rows="6" placeholder="Your Message..." 
+                        [(ngModel)]="formData.message" name="message" #message="ngModel" required></textarea>
+            </div>
+            <div *ngIf="message.invalid && (message.dirty || message.touched)" class="text-danger small mt-1">
+              <div *ngIf="message.errors?.['required']">Message is required</div>
             </div>
           </div>
           
-          <button type="submit" class="submit-btn">
-            <span>Send Message</span>
-            <i class="material-icons">send</i>
+          <!-- Success/Error Messages -->
+          <div *ngIf="successMessage" class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="material-icons me-2">check_circle</i>
+            {{ successMessage }}
+            <button type="button" class="btn-close" (click)="successMessage = ''"></button>
+          </div>
+          
+          <div *ngIf="errorMessage" class="alert alert-danger alert-dismissible fade show" role="alert">
+            <i class="material-icons me-2">error</i>
+            {{ errorMessage }}
+            <button type="button" class="btn-close" (click)="errorMessage = ''"></button>
+          </div>
+          
+          <button type="submit" class="submit-btn" [disabled]="isLoading || contactForm.invalid">
+            <span *ngIf="!isLoading">Send Message</span>
+            <span *ngIf="isLoading">
+              <i class="material-icons spin">refresh</i>
+              Sending...
+            </span>
+            <i class="material-icons" *ngIf="!isLoading">send</i>
           </button>
         </form>
       </div>

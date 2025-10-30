@@ -115,11 +115,12 @@ namespace PakClassified.Handlers.UserHandler
                 {
                     if (found != null)
                     {
-                        dbContext.Entry(request.Role).State = EntityState.Unchanged;
+                        // Only update the fields that are allowed to be updated
                         found.Name = request.Name;
                         found.Email = request.Email;
-                        found.Password = request.Password;
-                        found.RoleId = request.RoleId;
+                        found.ContactNumber = request.ContactNumber;
+                        found.DateOfBirth = request.DateOfBirth;
+                        found.Image = request.Image;
                         found.ModifiedDate = DateTime.Now;
 
                         dbContext.Update(found);
@@ -129,10 +130,9 @@ namespace PakClassified.Handlers.UserHandler
                     return null;
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                throw new Exception(ex.Message);
             }
         }
     }

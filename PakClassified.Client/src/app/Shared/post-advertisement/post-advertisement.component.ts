@@ -251,7 +251,7 @@ export class PostAdvertisementComponent implements OnInit{
 
     if(!this.PostAdvertisementForm.valid) {
       this.loadingService.hide();
-      this.notificationService.showError('Please fill all required fields correctly.')
+      this.notificationService.showError('Please fill all required fields correctly.', 'Incorrect !')
       return;
     }
 
@@ -330,7 +330,7 @@ export class PostAdvertisementComponent implements OnInit{
       });
     }else{
       this.loadingService.hide();
-      this.notificationService.showError("Please fill the form correctly!");
+      this.notificationService.showError("Please fill the form correctly!", 'Something Went Wrong');
     }
   }
 }

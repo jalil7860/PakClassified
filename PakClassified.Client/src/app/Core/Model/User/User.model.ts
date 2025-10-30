@@ -1,5 +1,6 @@
 import { Role } from "./Role.model";
 export interface User {
+    [x: string]: any;
     id: number;
     name?: string;
     email?: string;
@@ -8,7 +9,7 @@ export interface User {
     password?: string;
     securityQuestion?: string;
     securityAnswer?: string;
-    birthDate: string;
+    dateOfBirth: string;
     contactNumber?: string;
     image?: string;
     roleId: number;

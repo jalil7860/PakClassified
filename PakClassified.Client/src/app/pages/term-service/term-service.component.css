@@ -1,0 +1,276 @@
+/* Hero Section */
+.terms-hero {
+  background: linear-gradient(135deg, #157347 0%, #0d5132 100%);
+  padding: 60px 20px;
+  text-align: center;
+  color: white;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-content h1 {
+  font-size: 42px;
+  font-weight: 800;
+  margin-bottom: 12px;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.hero-content p {
+  font-size: 18px;
+  opacity: 0.95;
+  margin: 8px 0;
+}
+
+.last-updated {
+  font-size: 14px;
+  opacity: 0.85;
+  margin-top: 12px;
+  font-weight: 500;
+}
+
+/* Main Container */
+.terms-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.terms-content {
+  background: white;
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Sections */
+.terms-section {
+  margin-bottom: 40px;
+  padding-bottom: 32px;
+  border-bottom: 2px solid #f3f4f6;
+}
+
+.terms-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.terms-section h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #157347;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.terms-section h2::before {
+  content: '';
+  width: 4px;
+  height: 28px;
+  background: linear-gradient(135deg, #157347 0%, #0d5132 100%);
+  border-radius: 2px;
+}
+
+.terms-section p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #4b5563;
+  margin-bottom: 16px;
+}
+
+.terms-section p:last-child {
+  margin-bottom: 0;
+}
+
+/* Lists */
+.terms-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0;
+}
+
+.terms-section ul li {
+  position: relative;
+  padding: 10px 0 10px 32px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #4b5563;
+}
+
+.terms-section ul li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 18px;
+  width: 8px;
+  height: 8px;
+  background: #157347;
+  border-radius: 50%;
+}
+
+/* Contact Info */
+.contact-info {
+  background: #f0fdf4;
+  border-left: 4px solid #157347;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 16px;
+}
+
+.contact-info p {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 12px 0;
+  font-size: 15px;
+  color: #1f2937;
+}
+
+.contact-info p:first-child {
+  margin-top: 0;
+}
+
+.contact-info p:last-child {
+  margin-bottom: 0;
+}
+
+.contact-info i {
+  color: #157347;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.contact-info strong {
+  font-weight: 700;
+  min-width: 80px;
+}
+
+/* Acceptance Section */
+.acceptance-section {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.acceptance-box {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border: 2px solid #157347;
+  border-radius: 12px;
+  padding: 32px;
+  text-align: center;
+}
+
+.acceptance-box i {
+  font-size: 56px;
+  color: #157347;
+  margin-bottom: 16px;
+  display: block;
+}
+
+.acceptance-box h3 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #157347;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+
+.acceptance-box p {
+  font-size: 16px;
+  color: #1f2937;
+  margin: 0;
+  font-weight: 500;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .terms-hero {
+    padding: 40px 20px;
+  }
+
+  .hero-content h1 {
+    font-size: 32px;
+  }
+
+  .hero-content p {
+    font-size: 16px;
+  }
+
+  .terms-container {
+    padding: 30px 16px;
+  }
+
+  .terms-content {
+    padding: 28px 20px;
+  }
+
+  .terms-section {
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+  }
+
+  .terms-section h2 {
+    font-size: 22px;
+  }
+
+  .terms-section h2::before {
+    height: 24px;
+  }
+
+  .terms-section p {
+    font-size: 15px;
+  }
+
+  .terms-section ul li {
+    font-size: 14px;
+    padding-left: 28px;
+  }
+
+  .acceptance-box {
+    padding: 24px 20px;
+  }
+
+  .acceptance-box i {
+    font-size: 48px;
+  }
+
+  .acceptance-box h3 {
+    font-size: 20px;
+  }
+
+  .contact-info p {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .terms-hero {
+    padding: 30px 16px;
+  }
+
+  .hero-content h1 {
+    font-size: 26px;
+  }
+
+  .hero-content p {
+    font-size: 14px;
+  }
+
+  .terms-content {
+    padding: 20px 16px;
+  }
+
+  .terms-section h2 {
+    font-size: 20px;
+  }
+
+  .acceptance-box {
+    padding: 20px 16px;
+  }
+}

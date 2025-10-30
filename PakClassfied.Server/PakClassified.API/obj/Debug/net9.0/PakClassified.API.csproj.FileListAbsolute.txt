@@ -372,3 +372,4 @@ G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\refint\
 G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.pdb
 G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.genruntimeconfig.cache
 G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\ref\PakClassified.API.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.API\obj\Debug\net9.0\PakClassified.API.sourcelink.json

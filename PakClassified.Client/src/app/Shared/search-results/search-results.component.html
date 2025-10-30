@@ -82,7 +82,7 @@
             <div class="card-meta">
               <div class="meta-item">
                 <i class="fas fa-map-marker-alt"></i>
-                <span>{{ad.cityArea?.name}}, {{ad.city?.name}}</span>
+                <span>location: N/A</span>
               </div>
               <div class="meta-item">
                 <i class="fas fa-clock"></i>
@@ -94,7 +94,7 @@
             <div class="card-stats">
               <div class="stat-item">
                 <i class="fas fa-eye"></i>
-                <span>{{ad.hits || 0}} views</span>
+                <span>{{ad.hits || 20 || 90}} views</span>
               </div>
               <div class="stat-item">
                 <i class="fas fa-calendar"></i>
@@ -104,14 +104,11 @@
 
             <!-- Action Buttons -->
             <div class="card-actions">
-              <button class="btn btn-primary btn-view" [routerLink]="['/vehicle', ad.id]">
+              <button class="btn btn-primary btn-view" [routerLink]="['/carDetail/', ad.name, ad.id]">
                 <i class="fas fa-eye me-2"></i>
                 View Details
               </button>
-              <button class="btn btn-outline btn-contact">
-                <i class="fas fa-phone me-2"></i>
-                Contact
-              </button>
+              
             </div>
           </div>
         </div>
@@ -120,10 +117,4 @@
   </div>
 
   <!-- Load More Button -->
-  <div *ngIf="advertisements.length > 0" class="load-more-section text-center mt-5">
-    <button class="btn btn-load-more">
-      <i class="fas fa-redo me-2"></i>
-      Load More Vehicles
-    </button>
-  </div>
 </div>

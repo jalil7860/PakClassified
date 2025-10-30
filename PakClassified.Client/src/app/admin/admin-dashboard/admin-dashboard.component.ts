@@ -129,7 +129,7 @@ export class AdminDashboardComponent implements OnInit{
 
     if(!this.SubCategoryForm.valid){
       this.loadingservice.hide();
-      this.notificationService.showError("Please fill all required fields Correctly.");
+      this.notificationService.showError("Please fill all required fields Correctly.", "Incorrect!");
       return;
     }
     if(this.SubCategoryForm.valid){
@@ -173,7 +173,7 @@ export class AdminDashboardComponent implements OnInit{
 
     if(!this.CategoryForm.valid){
       this.loadingservice.hide();
-      this.notificationService.showError("Please fill all required fields Correctly.");
+      this.notificationService.showError("Please fill all required fields Correctly.", 'Incorrect !');
       return;
     }
       if(this.CategoryForm.valid){

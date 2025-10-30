@@ -21,9 +21,9 @@ export class UserService {
   create(req:User){
     return this.httpClient.post<User>(this.baseUrl, req);
   }
-  update(id:number, req:User){
-    return this.httpClient.put<User>(this.baseUrl+'/'+id, req)
-  }
+update(id: number, userData: any){
+  return this.httpClient.put<User>(this.baseUrl + '/' + id, userData);
+}
   delete(id:number){
     return this.httpClient.delete(this.baseUrl+'/'+id)
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PakClassified.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c85003ede0d8406b96337412ee4c08f36819a89")]
 [assembly: System.Reflection.AssemblyProductAttribute("PakClassified.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PakClassified.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

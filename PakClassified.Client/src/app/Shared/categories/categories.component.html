@@ -20,7 +20,7 @@
                 
                 <!-- Category Image -->
                 <div class="category-image">
-                  <img src="images/Categories 1.png" alt="{{c.name}}">
+                  <img [src]="c.image" alt="{{c.name}}">
                   <div class="category-overlay"></div>
                   <div class="category-badge">
                     <span>{{ SubcategoryCounts[c.id]?.length || 0 }} Vehicles</span>
@@ -52,6 +52,9 @@
                   </div>
                 </div>
               </div>
+              @if (authService.isAdmin()) {
+                <button class="btn btn-danger mt-2 ms-1 rounded-5 shadow" (click)="DeleteCategory(c.id)"><i class="fas fa-trash me-2"></i>Delete</button>
+              }
             </div>
           }
         </div>

@@ -11,4 +11,7 @@ import { RouterLink } from '@angular/router';
 })
 export class CarouselComponent {
   authService = inject(AuthService);
+  search(event: Event){
+    event.preventDefault();
+  }
 }

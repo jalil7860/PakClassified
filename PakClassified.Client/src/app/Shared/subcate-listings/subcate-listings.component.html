@@ -1,0 +1,119 @@
+<!-- Hero Section -->
+<div class="listings-hero">
+  <div class="hero-overlay">
+    <div class="hero-content">
+      <h1>{{subCategoryName}}</h1>
+      <p>Browse all available listings in this Sub Category</p>
+      <div class="breadcrumb">
+        <a routerLink="/home">Home</a>
+        <i class="ri-arrow-right-s-line"></i>
+        <a [routerLink]="['/Category',categoryName, categoryId ]">{{categoryName}}</a>
+        <i class="ri-arrow-right-s-line"></i>
+        <a [routerLink]="['/Category',categoryId, categoryName, 'sub',subCategoryName, SubCategoryId]">{{subCategoryName}}</a>
+        <i class="ri-arrow-right-s-line"></i>
+        <span>Listings</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid py-5">
+  <div class="row g-4">
+    
+    <!-- Listings Content -->
+    <div class="col-lg-12 col-md-12">
+      
+      <!-- Results Header -->
+      <div class="results-header">
+        <div class="results-info">
+          <h2>{{totalListings}} Results Found</h2>
+          <p>Showing listings for {{subCategoryName}}</p>
+        </div>
+      </div>
+
+      <!-- Listings Grid -->
+      <div class="listings-grid">
+        
+        <!-- Single Listing Card -->
+        @for (listing of Listings; track listing.id) {
+        <div class="listing-card">
+          <div class="card-image">
+            <img [src]="listing.image" [alt]="listing.name">
+            <div class="card-badges">
+            </div>
+          </div>
+          
+          <div class="card-content">
+            <h3 class="card-title">{{listing.name}}</h3>
+            
+            <div class="card-meta">
+              <span class="meta-item">
+                <i class="ri-calendar-line"></i>
+                {{listing.createdDate | date: 'mediumDate'}}
+              </span>
+            </div>
+
+            <div class="card-features">
+              <!-- <span class="feature-tag">{{listing.features.slice(0,50)}}</span> -->
+               @if (listing.features) {
+                @for (feature of listing.features.split(',').slice(0, 4); track $index) {
+                  <span class="feature-tag">
+                    {{feature.trim()}}
+                  </span>
+                }
+              }
+            </div>
+
+            <div class="card-footer">
+              <div class="price">
+                <span class="price-label">Price</span>
+                <span class="price-value">PKR {{formatPrice(listing.price)}}</span>
+              </div>
+              <a [routerLink]="['/carDetail', listing.name, listing.id]" class="view-details-btn">
+                View Details
+                <i class="ri-arrow-right-line"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        }
+      </div>
+
+      <!-- No Results -->
+      @if (Listings.length === 0) {
+        <div class="no-results">
+          <i class="ri-search-line"></i>
+          <h3>No Listings Found</h3>
+          <p>Try adjusting your filters or search criteria</p>
+        </div>
+      }
+
+      <!-- Pagination -->
+      <!-- @if (Listings.length > 0) {
+        <div class="pagination-container">
+          <nav>
+            <ul class="pagination">
+              <li class="page-item">
+                <a class="page-link" href="#">
+                  <i class="ri-arrow-left-s-line"></i>
+                  Previous
+                </a>
+              </li>
+              <li class="page-item active"><a class="page-link" href="#">1</a></li>
+              <li class="page-item"><a class="page-link" href="#">2</a></li>
+              <li class="page-item"><a class="page-link" href="#">3</a></li>
+              <li class="page-item"><a class="page-link" href="#">4</a></li>
+              <li class="page-item">
+                <a class="page-link" href="#">
+                  Next
+                  <i class="ri-arrow-right-s-line"></i>
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      } -->
+
+    </div>
+  </div>
+</div>

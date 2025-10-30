@@ -61,7 +61,7 @@ export class ForgotPasswordComponent {
           console.log(err);
           
           this.loadingService.hide();
-          this.notificationService.showError('User not found with this email');
+          this.notificationService.showError(`User not found with this email (${this.userEmail.concat})`, 'NotFound');
         }
       });
     }
@@ -83,12 +83,12 @@ export class ForgotPasswordComponent {
           if (response.isVerified) {
             this.currentStep = 3;
           } else {
-            this.notificationService.showError('Incorrect security answer');
+            this.notificationService.showError('Incorrect security answer', 'Incorrect !');
           }
         },
         error: (err) => {
           this.loadingService.hide();
-          this.notificationService.showError('Verification failed');
+          this.notificationService.showError('Verification failed', 'Failed !');
         }
       });
     }
@@ -112,7 +112,7 @@ export class ForgotPasswordComponent {
         },
         error: (err) => {
           this.loadingService.hide();
-          this.notificationService.showError('Password reset failed');
+          this.notificationService.showError('Password reset failed' , 'Operation Failed');
         }
       });
     }

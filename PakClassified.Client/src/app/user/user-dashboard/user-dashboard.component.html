@@ -1,0 +1,90 @@
+<div class="ads-section">
+  <!-- Section Header -->
+  <div class="section-header">
+    <h2 class="section-title">My Advertisements</h2>
+    <button class="btn-add-new" [routerLink]="['/post-ad']">
+      <i class="ri-add-circle-line"></i>
+      Post New Ad
+    </button>
+  </div>
+
+  <!-- Advertisement Cards -->
+  @if (advertisements != null && advertisements.length > 0) {
+    @for (adv of advertisements; track adv.id) {
+      <div class="advertisement-card">
+        <div class="row g-3">
+          <!-- Image Column -->
+          <div class="col-12 col-md-5">
+            <div class="ad-image-wrapper">
+              <img [src]="adv.image" [alt]="adv.name" class="ad-image" />
+              <span [class]="'ad-badge ' + getStatusBadgeClass(adv.status?.name)">
+                {{adv.status?.name || 'Unknown'}}
+              </span>
+            </div>
+          </div>
+
+          <!-- Content Column -->
+          <div class="col-12 col-md-7">
+            <div class="ad-content">
+              <h3 class="ad-title">{{adv.name}}</h3>
+              <p class="ad-description">{{adv.description}}</p>
+
+              <div class="ad-meta">
+                <div class="meta-item">
+                  <i class="ri-map-pin-line"></i>
+                  <span>{{adv.cityArea?.name || 'Location not set'}}</span>
+                </div>
+                <div class="meta-item">
+                  <i class="ri-calendar-line"></i>
+                  <span>Posted: {{adv.createdDate | date: 'mediumDate'}}</span>
+                </div>
+                <div class="meta-item">
+                  <i class="ri-eye-line"></i>
+                  <span>{{adv.hits}} Views</span>
+                </div>
+                <div class="meta-item">
+                  <i class="ri-information-line"></i>
+                  <span>Status: {{adv.status?.name || 'Not set'}}</span>
+                </div>
+              </div>
+
+              <div class="ad-footer">
+                <div class="ad-price">
+                  <span class="price-label">Price:</span>
+                  <span class="price-value">PKR {{formatPrice(adv.price)}}</span>
+                </div>
+                <div class="ad-actions">
+                  <button class="btn-ad-action btn-view" 
+                          [routerLink]="['/carDetail/', adv.name, adv.id]">
+                    <i class="ri-eye-line"></i>
+                    View
+                  </button>
+                  <button class="btn-ad-action btn-edit"
+                          [routerLink]="['/user/edit-ad', adv.id]">
+                    <i class="ri-edit-line"></i>
+                    Edit
+                  </button>
+                  <button class="btn-ad-action btn-delete" 
+                          (click)="deleteAdvertisement(adv.id)">
+                    <i class="ri-delete-bin-line"></i>
+                    Delete
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    }
+  } @else {
+    <div class="empty-ads-state">
+      <i class="ri-article-line empty-icon"></i>
+      <h3 class="empty-title">No Advertisements Yet</h3>
+      <p class="empty-description">You haven't posted any advertisements. Start posting to reach thousands of potential buyers!</p>
+      <button class="btn-post-first" [routerLink]="['/post-ad']">
+        <i class="ri-add-circle-line"></i>
+        Post Your First Ad
+      </button>
+    </div>
+  }   
+</div>

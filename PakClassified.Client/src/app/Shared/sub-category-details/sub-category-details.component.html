@@ -6,8 +6,7 @@
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb-custom">
           <li><a routerLink="/">Home</a></li>
-          <li><a routerLink="/categories">Categories</a></li>
-          <li><a [routerLink]="['/category', subCateDetail?.categoryId]">{{subCateDetail?.category?.name}}</a></li>
+          <li><a [routerLink]="['/Category', subCateDetail?.category?.name, subCateDetail?.categoryId]">{{subCateDetail?.category?.name}}</a></li>
           <li class="active">{{subCateDetail?.name}}</li>
         </ol>
       </nav>
@@ -173,17 +172,9 @@
         </div>
         <div class="card-body">
           <div class="action-buttons">
-            <button class="btn-action primary" [routerLink]="['/listings']" [queryParams]="{subCategory: subCateDetail?.id}">
+            <button class="btn-action primary" [routerLink]="['/listings']" [queryParams]="{subCategory: subCateDetail?.id,subCategoryName: subCateDetail?.name, category: subCateDetail?.category?.name, categoryId: subCateDetail?.category?.id}">
               <i class="ri-search-line"></i>
               Browse All Listings
-            </button>
-            <button class="btn-action secondary">
-              <i class="ri-filter-line"></i>
-              Apply Filters
-            </button>
-            <button class="btn-action outline">
-              <i class="ri-heart-line"></i>
-              Save to Favorites
             </button>
           </div>
         </div>
@@ -217,7 +208,7 @@
     <div class="cta-content">
       <h2 class="cta-title">Ready to Find Your Perfect Vehicle?</h2>
       <p class="cta-description">Browse through listings in {{subCateDetail?.name}} category</p>
-      <button class="btn-cta">
+      <button class="btn-cta" [routerLink]="['/listings']" [queryParams]="{subCategory: subCateDetail?.id,subCategoryName: subCateDetail?.name, category: subCateDetail?.category?.name, categoryId: subCateDetail?.category?.id}">
         <i class="ri-car-line"></i>
         View All Listings
       </button>

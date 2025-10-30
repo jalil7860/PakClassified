@@ -8,7 +8,7 @@ export class NotificationService {
 constructor(private snackBar: MatSnackBar){
 
 }
-  showError(message: string, title: string = 'something went wrong!') {{
+  showError(message: string, title: string) {{
     Swal.fire({
       title:title,
       text:message,

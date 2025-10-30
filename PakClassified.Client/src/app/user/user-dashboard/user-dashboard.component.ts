@@ -1,13 +1,13 @@
 import { Component, inject, OnInit } from '@angular/core';
+import { RouterLink } from '@angular/router';
 import { AuthService } from '../../Core/services/AuthenticationServices/auth.service';
 import { AdvertisementService } from '../../Core/services/PakClassified/advertisement.service';
 import { CityAreaService } from '../../Core/services/LoactionServices/city-area.service';
-import { AdvertisementStatusService } from '../../Core/services/PakClassified/AdvertisementStatus.service'; // ✅ NEW SERVICE
+import { AdvertisementStatusService } from '../../Core/services/PakClassified/AdvertisementStatus.service';
 import { AdvertisementModel } from '../../Core/Model/Advertisment/Advertisement.model';
 import { LoadingService } from '../../Core/Common/Loading/loading.service';
-import { DatePipe } from '@angular/common';
-import { RouterLink } from '@angular/router';
 import { NotificationService } from '../../Core/Common/Notification/notification.service';
+import { DatePipe } from '@angular/common';
 
 @Component({
   selector: 'app-user-dashboard',
@@ -15,7 +15,7 @@ import { NotificationService } from '../../Core/Common/Notification/notification
   templateUrl: './user-dashboard.component.html',
   styleUrl: './user-dashboard.component.css'
 })
-export class UserDashboardComponent implements OnInit{
+export class UserDashboardComponent implements OnInit {
   loadingService = inject(LoadingService)
   authService = inject(AuthService);
   advertisementService = inject(AdvertisementService)
@@ -94,21 +94,21 @@ export class UserDashboardComponent implements OnInit{
     }
   }
 
-deleteAdvertisement(adId: number) {
-  if(confirm('Are you sure you want to delete this advertisement?')) {
-    this.loadingService.show();
-    this.advertisementService.delete(adId).subscribe({
-      next: () => {
-        this.advertisements = this.advertisements.filter(ad => ad.id !== adId);
-        this.loadingService.hide();
-        this.notificationService.showSuccess('Advertisement deleted successfully');
-      },
-      error: (err) => {
-        console.log('Delete error:', err);
-        this.loadingService.hide();
-        this.notificationService.showError('Error deleting advertisement');
-      }
-    });
+  deleteAdvertisement(adId: number) {
+    if(confirm('Are you sure you want to delete this advertisement?')) {
+      this.loadingService.show();
+      this.advertisementService.delete(adId).subscribe({
+        next: () => {
+          this.advertisements = this.advertisements.filter(ad => ad.id !== adId);
+          this.loadingService.hide();
+          this.notificationService.showSuccess('Advertisement deleted successfully');
+        },
+        error: (err) => {
+          console.log('Delete error:', err);
+          this.loadingService.hide();
+          this.notificationService.showError('Error deleting advertisement', 'ERROR !');
+        }
+      });
+    }
   }
-}
 }

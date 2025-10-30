@@ -42,3 +42,4 @@ G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakC
 G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\refint\PakClassified.Models.dll
 G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.pdb
 G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\ref\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Debug\net8.0\PakClassified.Models.sourcelink.json

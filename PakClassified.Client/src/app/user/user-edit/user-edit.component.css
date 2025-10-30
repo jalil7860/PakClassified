@@ -1,0 +1,157 @@
+.edit-section {
+  background: white;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.section-header {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #f8f9fa;
+}
+
+.section-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.section-title i {
+  color: #157347;
+}
+
+.edit-form {
+  width: 100%;
+}
+
+.form-row {
+  display: flex;
+  gap: 40px;
+}
+
+.image-upload {
+  flex: 0 0 250px;
+}
+
+.form-fields {
+  flex: 1;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 15px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: #157347;
+  box-shadow: 0 0 0 0.2rem rgba(21, 115, 71, 0.15);
+}
+
+.upload-box {
+  border: 2px dashed #dee2e6;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
+  background: #f8f9fa;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.upload-box:hover {
+  border-color: #157347;
+  background: #e7f5ec;
+}
+
+.profile-preview {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border: 3px solid #157347;
+}
+
+.upload-box span {
+  display: block;
+  font-weight: 600;
+  color: #495057;
+  font-size: 0.95rem;
+  margin-bottom: 5px;
+}
+
+.upload-box small {
+  font-size: 0.8rem;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 0.85rem;
+  margin-top: 5px;
+}
+
+.btn-save {
+  padding: 14px 30px;
+  background: linear-gradient(135deg, #157347 0%, #0d5132 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(21, 115, 71, 0.3);
+}
+
+.btn-save:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(21, 115, 71, 0.4);
+}
+
+.btn-save:disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+}
+
+@media (max-width: 991px) {
+  .form-row {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .image-upload {
+    flex: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .edit-section {
+    padding: 20px;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+  }
+}

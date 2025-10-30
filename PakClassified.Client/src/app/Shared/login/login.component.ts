@@ -1,4 +1,4 @@
-import { Component, inject } from '@angular/core';
+import { Component, inject, OnInit } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
 import { NotificationService } from '../../Core/Common/Notification/notification.service';
 import { LoadingService } from '../../Core/Common/Loading/loading.service';
@@ -12,25 +12,31 @@ import { CommonModule } from '@angular/common';
   templateUrl: './login.component.html',
   styleUrl: './login.component.css'
 })
-export class LoginComponent {
+export class LoginComponent implements OnInit{
     notificationService = inject(NotificationService);
     loadingService = inject(LoadingService);
     authService = inject(AuthService);
     router = inject(Router)
 
+    passwordFieldType: string = 'password';
 
     loginForm = new FormGroup({
       email: new FormControl ('', [Validators.required, Validators.email]),
       password: new FormControl ('', [Validators.required, Validators.minLength(8)])
     });
+    ngOnInit(): void {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  
+    }
 
     LoginSubmit(){
+
       this.loadingService.show();
       if(this.loginForm.invalid){
         console.warn("Form is invalid: ", this.loginForm.value)
 
         this.loadingService.hide();
-        this.notificationService.showError('Invalid Credentials!')
+        this.notificationService.showError('Invalid Credentials!','Invalid')
         return;
       }
       const {email, password} = this.loginForm.value;
@@ -46,11 +52,14 @@ export class LoginComponent {
           this.notificationService.showSuccess("User Login Successfully!")
         },error: (err: any) => {
           this.loadingService.hide();
-          this.notificationService.showError("Backend Invalid Credentials")
+          this.notificationService.showError("Backend Invalid Credentials", 'EROOR !')
         }
       })
     }
 
+    togglePasswordVisibility() {
+    this.passwordFieldType = this.passwordFieldType === 'password' ? 'text' : 'password';
+    }
     get email_login(){
       return this.loginForm.get('email');
     }

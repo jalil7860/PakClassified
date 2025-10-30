@@ -145,13 +145,13 @@ export class FiltersComponent implements OnInit {
             if (this.advertisements.length > 0) {
               this.notificationService.showSuccess("Advertisement Found");
             } else {
-              this.notificationService.showError("No advertisements found!");
+              this.notificationService.showError("No advertisements found!", "NotFound");
             }
            
           },
           error: (err)=> {
             this.loadingService.hide();
-            this.notificationService.showError("Something went wrong while fetching advertisements!");
+            this.notificationService.showError("Something went wrong while fetching advertisements!", "Something Went Wrong");
           }
         });
     }

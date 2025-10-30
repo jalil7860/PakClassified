@@ -1,0 +1,90 @@
+<div class="user-layout">
+  <!-- Dashboard Header -->
+  <div class="dashboard-header">
+    <div class="container">
+      <div class="header-content">
+        <div class="breadcrumb-wrapper">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb-custom">
+              <li><a href="/">Home</a></li>
+              <li class="active">User Dashboard</li>
+            </ol>
+          </nav>
+        </div>
+        <h1 class="page-title">User Dashboard</h1>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dashboard Content -->
+  <div class="container dashboard-content">
+    <div class="row g-4">
+      
+      <!-- Sidebar - User Profile -->
+      <div class="col-12 col-lg-3">
+        <div class="user-profile-card">
+          <!-- Profile Image -->
+          <div class="profile-image-wrapper">
+            <img [src]="authService.getUserFromStorage()?.image || 'default-avatar.png'" 
+                       [alt]="authService.getUserFromStorage()?.name" class="profile-image" />
+            <div class="profile-status"></div>
+          </div>
+
+          <!-- User Info -->
+          <div class="user-info">
+            <h3 class="user-name">{{authService.getUserFromStorage()?.name}}</h3>
+            <p class="user-email">{{authService.getUserFromStorage()?.email}}</p>
+          </div>
+
+          <!-- User Stats -->
+          <div class="user-stats">
+            <div class="stat-item">
+              <span class="stat-label">Contact Number</span>
+              <span class="stat-value">{{authService.getUserFromStorage()?.contactNumber}}</span>
+            </div>
+          </div>
+
+          <div class="dashboard-menu">
+            <a [routerLink]="['/user/dashboard']" 
+              class="menu-item" 
+              routerLinkActive="active"
+              [routerLinkActiveOptions]="{exact: true}">
+              <i class="ri-dashboard-line"></i>
+              <span>Dashboard</span>
+            </a>
+            
+            <a [routerLink]="['/user/edit']" 
+              class="menu-item" 
+              routerLinkActive="active">
+              <i class="ri-settings-3-line"></i>
+              <span>Edit Profile</span>
+            </a>
+          </div>
+
+          <!-- Action Buttons -->
+          <div class="profile-actions">
+            <!-- <button class="btn-action btn-edit" [routerLink]="['/user/edit']">
+              <i class="ri-edit-line"></i>
+              Edit Profile
+            </button> -->
+            <button class="btn-action btn-logout" (click)="authService.logout()">
+              <i class="ri-logout-box-line"></i>
+              Logout
+            </button>
+          </div>
+
+          <!-- Navigation Menu -->
+          
+        </div>
+      </div>
+
+      <!-- Main Content - Dynamic via Router Outlet -->
+      <div class="col-12 col-lg-9">
+        <div class="ads-section">
+        <router-outlet></router-outlet>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

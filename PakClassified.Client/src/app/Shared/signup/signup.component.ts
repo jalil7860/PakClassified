@@ -23,6 +23,12 @@ export class SignupComponent implements OnInit{
   roleService = inject(RoleService);
   authService = inject(AuthService);
   router = inject(Router);
+
+  passwordFieldType: string = 'password';
+
+  togglePasswordVisibility() {
+    this.passwordFieldType = this.passwordFieldType === 'password' ? 'text' : 'password';
+  }
   
   users: User[] = [];
   roles: Role[] = [];
@@ -101,7 +107,7 @@ export class SignupComponent implements OnInit{
 
     if(!this.SignUpForm.valid){
       this.loadingService.hide();
-      this.notificationService.showError("Please fill all required fields Correctly.");
+      this.notificationService.showError("Please fill all required fields Correctly.", 'Required !');
       return;
     }
     if(this.SignUpForm.valid){
@@ -119,7 +125,7 @@ export class SignupComponent implements OnInit{
         securityAnswer: rawData.securityAnswer || '',
         roleId: selectedRoleId,
         role: selectedRole,
-        birthDate: rawData.birthDate? new Date(rawData.birthDate).toISOString() : new Date().toISOString(),
+        dateOfBirth: rawData.birthDate? new Date(rawData.birthDate).toISOString() : new Date().toISOString(),
         contactNumber: rawData.contactNumber || '',
         image: rawData.image || ''
       };

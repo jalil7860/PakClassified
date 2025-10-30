@@ -4,6 +4,7 @@ import { Router } from '@angular/router';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { BehaviorSubject, tap } from 'rxjs';
 import { apiBaseUrl } from '../../../environments/environment.dev';
+import { User } from '../../Model/User/User.model';
 // import { apiBaseUrl } from '../../environments/environment.dev';
 
 @Injectable({
@@ -43,6 +44,7 @@ export class AuthService {
     return this.http.post(`${this.baseUrl}/forgotpassword`, { email });
 }
 
+
 verifySecurityAnswer(data: { email: string; securityAnswer: string }) {
     return this.http.post(`${this.baseUrl}/verifysecurityanswer`, data);
 }
@@ -53,10 +55,25 @@ resetPassword(data: { email: string; newPassword: string }) {
 getSecurityQuestion(email: string) {
     return this.http.post(`${this.baseUrl}/forgotpassword`, { email });
 }
+
+getCurrentUser() {
+  return JSON.parse(localStorage.getItem('currentUser') || '{}');
+}
+
+saveCurrentUser(user: any) {
+  localStorage.setItem('currentUser', JSON.stringify(user));
+}
+
+setUserInStorage(user: User): void {
+
+    localStorage.setItem('currentUser', JSON.stringify(user));
+    localStorage.setItem('user', JSON.stringify(user)); 
+    this.currentUserSubject.next(user);
+}
   getUserFromStorage() {
-    const user = localStorage.getItem('user');
-    return user ? JSON.parse(user) : null;
-  }
+    const userStr = localStorage.getItem('user') || localStorage.getItem('currentUser');
+    return userStr ? JSON.parse(userStr) : null;
+}
 
   isLoggedIn(): boolean {
     return !!this.getToken();

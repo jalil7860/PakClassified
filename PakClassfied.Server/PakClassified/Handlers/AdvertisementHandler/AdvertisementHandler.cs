@@ -187,7 +187,9 @@ namespace PakClassified.Handlers.AdvertisementHandler
                     using (PakClassifiedContext dbContext = new PakClassifiedContext())
                     {
 
-                        dbContext.Remove(found);
+                        found.IsDeleted = true;
+                        found.DeletedDate = DateTime.Now;
+                        dbContext.Update(found);
                         dbContext.SaveChanges();
                     }
                 }
@@ -205,44 +207,42 @@ namespace PakClassified.Handlers.AdvertisementHandler
             {
                 using (PakClassifiedContext dbContext = new PakClassifiedContext())
                 {
-                    Advertisement? found = (from Advertisement in dbContext.Advertisements
-                                            .Include(a => a.CityArea)
-                                            .Include(a => a.SubCategory)
-                                            .Include(a => a.Status)
-                                            .Include(a => a.Type)
-                                            .Include(a => a.PostedBy)
-                                            .Include(a => a.Images)
-                                            .Include(a => a.Tags)
-                                            where Advertisement.Id == id
-                                            select Advertisement).FirstOrDefault();
+                    Advertisement? found = dbContext.Advertisements
+                        .Include(a => a.CityArea)
+                        .Include(a => a.SubCategory)
+                        .Include(a => a.Status)
+                        .Include(a => a.Type)
+                        .Include(a => a.PostedBy)
+                        .Include(a => a.Images)
+                        .Include(a => a.Tags)
+                        .FirstOrDefault(a => a.Id == id);
 
                     if (found != null)
                     {
+                        // Individual fields update karein - entity attach nahi karein
                         found.Name = request.Name;
                         found.Price = request.Price;
                         found.Description = request.Description;
+                        found.Features = request.Features;
                         found.Hits = request.Hits;
                         found.StartsOn = request.StartsOn;
                         found.EndsOn = request.EndsOn;
-                        found.PostedById = request.PostedById;
                         found.SubCategoryId = request.SubCategoryId;
                         found.StatusId = request.StatusId;
                         found.TypeId = request.TypeId;
                         found.CityAreaId = request.CityAreaId;
+                        found.Image = request.Image;
                         found.ModifiedDate = DateTime.Now;
                         found.ModifiedBy = 1;
 
-                        dbContext.Update(request);
                         dbContext.SaveChanges();
-                        return request;
+                        return found; // Updated entity return karein
                     }
                     return null;
                 }
-
             }
             catch (Exception err)
             {
-
                 throw new Exception(err.Message);
             }
         }

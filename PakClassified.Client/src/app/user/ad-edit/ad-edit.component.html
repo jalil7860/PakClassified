@@ -1,0 +1,269 @@
+<div class="edit-section">
+  <div class="section-header">
+    <h2 class="section-title">
+      <i class="ri-edit-line"></i>
+      Edit Advertisement
+    </h2>
+  </div>
+
+  <form [formGroup]="EditAdvertisementForm" (ngSubmit)="editSubmit()">
+    
+    <!-- Basic Information -->
+    <div class="form-section">
+      <div class="section-header">
+        <div class="section-icon">
+          <i class="fas fa-info-circle"></i>
+        </div>
+        <div class="section-title">
+          <h5>Basic Information</h5>
+          <p>Update the basic details about your vehicle</p>
+        </div>
+      </div>
+
+      <div class="section-body">
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="form-group">
+              <label class="form-label">Name <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-car input-icon"></i>
+                <input type="text" class="form-control ps-5" formControlName="name" placeholder="Enter vehicle name">
+              </div>
+              @if (name_edit?.invalid && name_edit?.touched) {
+                <div class="d-flex justify-content-start text-danger ms-2">
+                  @if (name_edit?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <label class="form-label">Price <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-tag input-icon"></i>
+                <input type="text" class="form-control ps-5" formControlName="price" placeholder="Enter price (PKR)">
+              </div>
+              @if (price_edit?.invalid && price_edit?.touched) {
+                <div class="d-flex justify-content-start text-danger ms-2">
+                  @if (price_edit?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Description <span class="required">*</span></label>
+          <div class="input-group-custom">
+            <i class="fas fa-file-alt input-icon"></i>
+            <textarea class="form-control ps-5" rows="4" formControlName="description" placeholder="Enter detailed description about the vehicle"></textarea>
+          </div>
+          @if (description_edit?.invalid && description_edit?.touched) {
+            <div class="d-flex justify-content-start text-danger ms-2">
+              @if (description_edit?.hasError('required')) {
+                <div>Required</div>
+              }
+            </div>
+          }
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Features <span class="required">*</span></label>
+          <div class="input-group-custom">
+            <i class="fas fa-list input-icon"></i>
+            <textarea class="form-control ps-5" rows="4" formControlName="features" placeholder="Enter key features (e.g., Air Conditioning, Power Steering, etc.)"></textarea>
+          </div>
+          @if (features_edit?.invalid && features_edit?.touched) {
+            <div class="d-flex justify-content-start text-danger ms-2">
+              @if (features_edit?.hasError('required')) {
+                <div>Required</div>
+              }
+            </div>
+          }
+        </div>
+      </div>
+    </div>
+
+    <!-- Classification -->
+    <div class="form-section">
+      <div class="section-header">
+        <div class="section-icon">
+          <i class="fas fa-tags"></i>
+        </div>
+        <div class="section-title">
+          <h5>Classification</h5>
+          <p>Update vehicle categorization</p>
+        </div>
+      </div>
+
+      <div class="section-body">
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="form-group">
+              <label class="form-label">Type <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-cube input-icon"></i>
+                <select class="form-control ps-5" formControlName="typeId">
+                  <option value="" disabled>Select Type</option>
+                  @for (t of Types; track t.id) {
+                  <option [ngValue]="t.id">{{t.name}}</option>
+                  }
+                </select>
+              </div>
+              @if (typeId_edit?.invalid && typeId_edit?.touched) {
+                <div class="d-flex justify-content-start text-danger ms-2">
+                  @if (typeId_edit?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <label class="form-label">City Area <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-map-marker-alt input-icon"></i>
+                <select class="form-control ps-5" formControlName="cityAreaId">
+                  <option value="" disabled>Select City Area</option>
+                  @for (ca of CityAreas; track ca.id) {
+                  <option [ngValue]="ca.id">{{ca.name}}</option>
+                  }
+                </select>
+              </div>
+              @if (cityAreaId_edit?.invalid && cityAreaId_edit?.touched) {
+                <div class="d-flex justify-content-start text-danger ms-2">
+                  @if (cityAreaId_edit?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+          </div>
+        </div>
+
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="form-group">
+              <label class="form-label">Status <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-info-circle input-icon"></i>
+                <select class="form-control ps-5" formControlName="statusId">
+                  <option value="" selected disabled>Select Status</option>
+                  @for (s of Statuses; track s.id) {
+                  <option [ngValue]="s.id">{{s.name}}</option>
+                  }
+                </select>
+              </div>
+              @if (statusId_edit?.invalid && statusId_edit?.touched) {
+                <div class="d-flex justify-content-start text-danger ms-2">
+                  @if (statusId_edit?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <label class="form-label">Sub Category <span class="required">*</span></label>
+              <div class="input-group-custom">
+                <i class="fas fa-folder input-icon"></i>
+                <select class="form-control ps-5" formControlName="subCategoryId">
+                  <option value="" disabled>Select Sub Category</option>
+                  @for (sub of SubCategories; track sub.id) {
+                  <option [ngValue]="sub.id">{{sub.name}}</option>
+                  }
+                </select>
+              </div>
+              @if (subCategoryId_edit?.invalid && subCategoryId_edit?.touched) {
+                <div class="d-flex justify-content-start text-danger ms-2">
+                  @if (subCategoryId_edit?.hasError('required')) {
+                    <div>Required</div>
+                  }
+                </div>
+              }
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Image Upload -->
+    <div class="form-section">
+      <div class="section-header">
+        <div class="section-icon">
+          <i class="fas fa-image"></i>
+        </div>
+        <div class="section-title">
+          <h5>Update Image</h5>
+          <p>Change the vehicle photo</p>
+        </div>
+      </div>
+
+      <div class="section-body">
+        <div class="form-group">
+          <label class="form-label">Vehicle Image</label>
+          
+          <!-- File Upload Area -->
+          <div class="file-upload-wrapper" (click)="fileInput.click()">
+            <div class="upload-icon">
+              <i class="fas fa-cloud-upload-alt"></i>
+            </div>
+            <div class="upload-content">
+              <h6>Click to upload new image</h6>
+              <p>PNG, JPG, JPEG (Max 5MB)</p>
+            </div>
+          </div>
+          
+          <!-- Hidden File Input -->
+          <input type="file" #fileInput 
+                (change)="onFileSelected($event)"
+                class="d-none" 
+                accept="image/*">
+          
+          <!-- Uploaded Image Preview -->
+          <div class="upload-preview mt-4" *ngIf="selectedImage">
+            <div class="row">
+              <div class="col-6 col-md-4 col-lg-3">
+                <div class="image-preview-card">
+                  <img [src]="selectedImage.url" alt="Preview" class="preview-image">
+                  <button type="button" class="btn-remove" (click)="removeImage()">
+                    <i class="fas fa-times"></i>
+                  </button>
+                  <div class="image-info">
+                    <small class="text-muted">{{ selectedImage.name }}</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Empty State -->
+          <div class="upload-preview mt-3" *ngIf="!selectedImage">
+            <div class="preview-text text-center py-4">
+              <i class="fas fa-images text-muted mb-2" style="font-size: 2rem;"></i>
+              <p class="text-muted mb-0">No image selected</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Submit Button -->
+    <div class="form-actions">
+      <button type="button" class="btn btn-cancel" (click)="router.navigate(['/user/dashboard'])">
+        <i class="fas fa-times me-2"></i>
+        Cancel
+      </button>
+      <button type="submit" class="btn btn-submit">
+        <i class="fas fa-save me-2"></i>
+        Update Advertisement
+      </button>
+    </div>
+  </form>
+</div>

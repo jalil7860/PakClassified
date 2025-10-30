@@ -24,9 +24,9 @@
               Drive Your Dream: Find Your Perfect Car Today.
             </p>
             <div class="d-flex flex-wrap gap-3 btn-group-mobile">
-              <button class="carousel-btn btn-primary-carousel">
+              <a href="#search" (click)="search($event)" class="carousel-btn btn-primary-carousel">
                 <i class="ri-search-line me-2"></i> Search a Car
-              </button>
+              </a>
               @if (authService.isLoggedIn()) {
               <button [routerLink]="['/post-ad']" class="carousel-btn btn-outline-carousel">
                 <i class="ri-add-circle-line me-2"></i> Post Advertisement

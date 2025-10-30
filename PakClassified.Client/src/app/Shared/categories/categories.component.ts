@@ -6,13 +6,15 @@ import { LoadingService } from '../../Core/Common/Loading/loading.service';
 import { AdvertisementSubCategoryService } from '../../Core/services/PakClassified/AdvertismentSubCategory.service';
 import { AdvertisementSubCategory } from '../../Core/Model/Advertisment/AdvertisementSubCategory.model';
 import { forkJoin } from 'rxjs';
+import { NgOptimizedImage } from "@angular/common";
+import { AuthService } from '../../Core/services/AuthenticationServices/auth.service';
 
 
 
 
 @Component({
   selector: 'app-categories',
-  imports: [RouterLink],
+  imports: [RouterLink, NgOptimizedImage],
   templateUrl: './categories.component.html',
   styleUrl: './categories.component.css'
 })
@@ -20,6 +22,8 @@ export class CategoriesComponent implements OnInit {
   loadingservice = inject(LoadingService)
 
   subcategoryservice = inject(AdvertisementSubCategoryService)
+
+  authService = inject(AuthService)
 
   categoryservice = inject(AdvertisementCategoryService);
   subcategory : AdvertisementSubCategory[] = [];
@@ -61,6 +65,24 @@ export class CategoriesComponent implements OnInit {
   //   });
 
   // }
+  DeleteCategory(id: number){
+    let confirmation = confirm("Are you sure you want to delete?")
+    if(confirmation){
+      this.loadingservice.show();
+      this.categoryservice.delete(id).subscribe({
+        next: (data: any) => {
+          this.loadingservice.hide();
+        },error: (err) => {
+          console.log("ERROR WHILE DELETING: ", err);
+          this.loadingservice.hide();
+        }
+      })
+    }else{
+      console.log("you've cancel the process !.");
+      
+    }
+  }
+
   ngOnInit(): void {
   this.loadingservice.show();
 

@@ -47,27 +47,11 @@
               <i class="fas fa-chevron-down dropdown-arrow"></i>
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#" (click)="closeNavbar()">
-                <i class="fas fa-car me-2"></i>
-                Cars
+              @for (c of Categories; track c.id) {
+                <li><a [routerLink]="['/Category/', c.name, c.id]" class="dropdown-item" href="#" (click)="closeNavbar()">
+                  {{c.name}}
               </a></li>
-              <li><a class="dropdown-item" href="#" (click)="closeNavbar()">
-                <i class="fas fa-motorcycle me-2"></i>
-                Motorcycles
-              </a></li>
-              <li><a class="dropdown-item" href="#" (click)="closeNavbar()">
-                <i class="fas fa-truck me-2"></i>
-                Trucks
-              </a></li>
-              <li><a class="dropdown-item" href="#" (click)="closeNavbar()">
-                <i class="fas fa-bus me-2"></i>
-                Buses
-              </a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#" (click)="closeNavbar()">
-                <i class="fas fa-eye me-2"></i>
-                View All Categories
-              </a></li>
+              }
             </ul>
           </li>
 

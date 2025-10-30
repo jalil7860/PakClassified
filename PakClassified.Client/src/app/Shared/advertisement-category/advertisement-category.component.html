@@ -5,7 +5,7 @@
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb-custom">
           <li><a href="/">Home</a></li>
-          <li><a href="/categories">Categories</a></li>
+          <li><a>Categories</a></li>
           <li class="active">{{SubCategory[0]?.category?.name}}</li>
         </ol>
       </nav>
@@ -34,9 +34,9 @@
               class="card-image" 
             />
             <div class="card-overlay">
-              <span class="view-badge">
+              <a [routerLink]="['sub/', sc.name, sc.id]" class="view-badge">
                 <i class="ri-eye-line"></i> View Details
-              </span>
+              </a>
             </div>
           </div>
 
@@ -72,7 +72,7 @@
       <i class="ri-inbox-line empty-icon"></i>
       <h3 class="empty-title">No Sub Categories Found</h3>
       <p class="empty-description">There are no sub categories available in this section yet.</p>
-      <a href="/categories" class="btn-back-home">
+      <a href="/home" class="btn-back-home">
         <i class="ri-arrow-left-line"></i>
         Back to Categories
       </a>
@@ -89,9 +89,9 @@
         <p class="cta-description">Browse all our categories or contact our support team for assistance</p>
       </div>
       <div class="cta-actions">
-        <a href="/categories" class="btn-cta-primary">
-          <i class="ri-apps-line"></i>
-          All Categories
+        <a href="/home" class="btn-cta-primary">
+          <i class="ri-home-line"></i>
+          Home
         </a>
         <a href="/contact" class="btn-cta-secondary">
           <i class="ri-customer-service-line"></i>

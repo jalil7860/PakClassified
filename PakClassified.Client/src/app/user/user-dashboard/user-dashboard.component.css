@@ -1,241 +1,6 @@
-/* Dashboard Header */
-.dashboard-header {
-  background: linear-gradient(135deg, #157347 0%, #0d5132 100%);
-  padding: 40px 0 50px;
-  position: relative;
-  overflow: hidden;
-}
+/* Copy the ads-section related CSS from your current user-dashboard.component.css */
+/* Since the layout handles the sidebar, we only need the ads section styles */
 
-.dashboard-header::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: url('data:image/svg+xml,<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg"><circle cx="30" cy="30" r="1" fill="white" opacity="0.1"/></svg>');
-  background-size: 60px 60px;
-}
-
-.header-content {
-  position: relative;
-  z-index: 1;
-}
-
-/* Breadcrumb */
-.breadcrumb-wrapper {
-  margin-bottom: 20px;
-}
-
-.breadcrumb-custom {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  font-size: 0.95rem;
-}
-
-.breadcrumb-custom li a {
-  color: rgba(255, 255, 255, 0.8);
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-.breadcrumb-custom li a:hover {
-  color: white;
-}
-
-.breadcrumb-custom li::after {
-  content: '/';
-  margin-left: 10px;
-  color: rgba(255, 255, 255, 0.5);
-}
-
-.breadcrumb-custom li:last-child::after {
-  content: '';
-}
-
-.breadcrumb-custom li.active {
-  color: white;
-  font-weight: 600;
-}
-
-.page-title {
-  font-size: 2.5rem;
-  font-weight: 800;
-  color: white;
-  margin: 0;
-}
-
-/* Dashboard Content */
-.dashboard-content {
-  padding: 60px 15px;
-}
-
-/* User Profile Card */
-.user-profile-card {
-  background: white;
-  border-radius: 20px;
-  padding: 30px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-  position: sticky;
-  top: 20px;
-}
-
-.profile-image-wrapper {
-  position: relative;
-  width: 120px;
-  height: 120px;
-  margin: 0 auto 20px;
-}
-
-.profile-image {
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid #157347;
-}
-
-.profile-status {
-  position: absolute;
-  bottom: 5px;
-  right: 5px;
-  width: 20px;
-  height: 20px;
-  background: #28a745;
-  border-radius: 50%;
-  border: 3px solid white;
-}
-
-/* User Info */
-.user-info {
-  text-align: center;
-  margin-bottom: 25px;
-  padding-bottom: 25px;
-  border-bottom: 1px solid #eee;
-}
-
-.user-name {
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: #1a1a1a;
-  margin-bottom: 5px;
-}
-
-.user-email {
-  font-size: 0.95rem;
-  color: #666;
-  margin: 0;
-}
-
-/* User Stats */
-.user-stats {
-  margin-bottom: 25px;
-  padding-bottom: 25px;
-  border-bottom: 1px solid #eee;
-}
-
-.stat-item {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.stat-label {
-  font-size: 0.85rem;
-  color: #666;
-  font-weight: 500;
-}
-
-.stat-value {
-  font-size: 1.1rem;
-  color: #157347;
-  font-weight: 700;
-}
-
-/* Profile Actions */
-.profile-actions {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-bottom: 25px;
-  padding-bottom: 25px;
-  border-bottom: 1px solid #eee;
-}
-
-.btn-action {
-  padding: 12px 20px;
-  border: none;
-  border-radius: 10px;
-  font-weight: 600;
-  font-size: 0.95rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.btn-edit {
-  background: linear-gradient(135deg, #157347 0%, #0d5132 100%);
-  color: white;
-}
-
-.btn-edit:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(21, 115, 71, 0.3);
-}
-
-.btn-logout {
-  background: #f8f9fa;
-  color: #dc3545;
-  border: 1px solid #dc3545;
-}
-
-.btn-logout:hover {
-  background: #dc3545;
-  color: white;
-}
-
-/* Dashboard Menu */
-.dashboard-menu {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-}
-
-.menu-item {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 12px 15px;
-  border-radius: 10px;
-  text-decoration: none;
-  color: #666;
-  font-weight: 600;
-  font-size: 0.95rem;
-  transition: all 0.3s ease;
-}
-
-.menu-item i {
-  font-size: 1.2rem;
-}
-
-.menu-item:hover {
-  background: #f8f9fa;
-  color: #157347;
-}
-
-.menu-item.active {
-  background: linear-gradient(135deg, #157347 0%, #0d5132 100%);
-  color: white;
-}
-
-/* Ads Section */
 .ads-section {
   background: white;
   border-radius: 20px;
@@ -280,7 +45,6 @@
   box-shadow: 0 8px 20px rgba(21, 115, 71, 0.3);
 }
 
-/* Advertisement Card */
 .advertisement-card {
   background: white;
   border: 2px solid #f8f9fa;
@@ -295,7 +59,6 @@
   box-shadow: 0 10px 30px rgba(21, 115, 71, 0.1);
 }
 
-/* Ad Image */
 .ad-image-wrapper {
   position: relative;
   width: 100%;
@@ -309,7 +72,7 @@
   height: 100%;
   object-fit: cover;
 }
-/* Status Badges */
+
 .status-badge-active {
   background: #28a745;
   color: white;
@@ -355,7 +118,6 @@
   font-weight: 600;
 }
 
-/* Ad Content */
 .ad-content {
   display: flex;
   flex-direction: column;
@@ -380,7 +142,6 @@
   overflow: hidden;
 }
 
-/* Ad Meta */
 .ad-meta {
   display: flex;
   flex-wrap: wrap;
@@ -403,7 +164,6 @@
   font-size: 1rem;
 }
 
-/* Ad Footer */
 .ad-footer {
   display: flex;
   justify-content: space-between;
@@ -456,6 +216,16 @@
   transform: translateY(-2px);
 }
 
+.btn-edit {
+  background: #ffc107;
+  color: black;
+}
+
+.btn-edit:hover {
+  background: #e0a800;
+  transform: translateY(-2px);
+}
+
 .btn-delete {
   background: #dc3545;
   color: white;
@@ -466,7 +236,6 @@
   transform: translateY(-2px);
 }
 
-/* Empty State */
 .empty-ads-state {
   text-align: center;
   padding: 80px 20px;
@@ -515,29 +284,7 @@
   box-shadow: 0 15px 40px rgba(21, 115, 71, 0.4);
 }
 
-/* Responsive Design */
-@media (max-width: 991px) {
-  .user-profile-card {
-    position: static;
-    margin-bottom: 30px;
-  }
-
-  .dashboard-menu {
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-
-  .menu-item {
-    flex: 1;
-    min-width: 150px;
-  }
-}
-
 @media (max-width: 767px) {
-  .page-title {
-    font-size: 2rem;
-  }
-
   .section-header {
     flex-direction: column;
     align-items: flex-start;
@@ -568,13 +315,9 @@
     justify-content: center;
   }
 
-  .dashboard-menu {
-    gap: 8px;
-  }
-
-  .menu-item {
-    font-size: 0.85rem;
-    padding: 10px 12px;
+  .ad-meta {
+    flex-direction: column;
+    gap: 10px;
   }
 }
 
@@ -585,10 +328,5 @@
 
   .advertisement-card {
     padding: 15px;
-  }
-
-  .ad-meta {
-    flex-direction: column;
-    gap: 10px;
   }
 }

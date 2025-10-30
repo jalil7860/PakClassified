@@ -1,0 +1,61 @@
+<div class="edit-section">
+  <div class="section-header">
+    <h2 class="section-title">
+      <i class="ri-user-settings-line"></i>
+      Edit Profile
+    </h2>
+  </div>
+
+  <form [formGroup]="userForm" (ngSubmit)="onSubmit()" class="edit-form">
+    <div class="form-row">
+      
+      <!-- Profile Image Upload -->
+      <div class="form-group image-upload">
+        <label class="form-label">Profile Picture</label>
+        <div class="upload-box" (click)="profileImageInput.click()">
+          <img [src]="userForm.get('image')?.value || 'assets/images/default-avatar.png'" 
+               alt="Profile" class="profile-preview">
+          <span>Click to change image</span>
+          <small class="text-muted">PNG, JPG (Max 1MB)</small>
+        </div>
+        <input #profileImageInput type="file" 
+               (change)="onFileSelected($event)" 
+               class="d-none" accept="image/*">
+      </div>
+
+      <!-- Form Fields -->
+      <div class="form-fields">
+        <div class="form-group">
+          <label class="form-label">Full Name *</label>
+          <input type="text" class="form-control" formControlName="name" placeholder="Your full name">
+          @if (userForm.get('name')?.invalid && userForm.get('name')?.touched) {
+            <div class="error-message">Name is required</div>
+          }
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Email Address *</label>
+          <input type="email" class="form-control" formControlName="email" placeholder="your@email.com">
+          @if (userForm.get('email')?.invalid && userForm.get('email')?.touched) {
+            <div class="error-message">Valid email is required</div>
+          }
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Contact Number</label>
+          <input type="text" class="form-control" formControlName="contactNumber" placeholder="0300-1234567">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Date of Birth</label>
+          <input type="date" class="form-control" formControlName="dateOfBirth">
+        </div>
+
+        <button type="submit" class="btn-save" [disabled]="!userForm.valid">
+          <i class="ri-save-line"></i>
+          Save Changes
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
