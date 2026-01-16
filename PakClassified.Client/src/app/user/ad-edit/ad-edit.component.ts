@@ -144,7 +144,6 @@ export class AdEditComponent implements OnInit {
       image: ad.image
     });
 
-    // Set image preview if exists
     if (ad.image) {
       this.selectedImage = {
         url: ad.image,
