@@ -127,6 +127,7 @@ export class AdEditComponent implements OnInit {
         this.loadingService.hide();
         this.notificationService.showError('Error loading advertisement', 'ERROR !');
         console.error('Load error:', err);
+        console.log("Erorr: ")
       }
     });
   }
@@ -184,6 +185,7 @@ export class AdEditComponent implements OnInit {
     if (file.size > maxSize) {
       this.notificationService.showError('File size should be less than 5MB', 'File Size Error');
       return false;
+      ///
     }
     
     return true;
