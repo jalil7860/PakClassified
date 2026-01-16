@@ -114,7 +114,7 @@ export class AdminDashboardComponent implements OnInit{
     this.advSubCategoryService.getAll().subscribe({
     next: (data) => {
       console.log("SubCategories: ", data);
-      this.totalSubCategories = data.length; // ✅ Count set karo
+      this.totalSubCategories = data.length; 
     },
     error: (err) => {
       console.log("error fetching subcategories: ", err);
@@ -135,6 +135,7 @@ export class AdminDashboardComponent implements OnInit{
     if(this.SubCategoryForm.valid){
       const rawData = this.SubCategoryForm.getRawValue();
       const selectedCategoryId = Number(rawData.categoryId);
+  
 
       const selectedCategory = this.Category.find(cate => cate.id === selectedCategoryId);
       

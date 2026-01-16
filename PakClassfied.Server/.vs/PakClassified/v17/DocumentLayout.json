@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\handlers\\advertisementhandler\\advertisementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\handlers\\advertisementhandler\\advertisementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\controllers\\pakclassifiedcontrollers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\controllers\\pakclassifiedcontrollers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\handlers\\userhandler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\handlers\\userhandler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\pakclassifiedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\pakclassifiedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\location\\cityareamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\location\\cityareamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\pakclassifieddiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\pakclassifieddiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\handlers\\loactionhandler\\cityareahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\handlers\\loactionhandler\\cityareahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\user\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\controllers\\usercontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\handlers\\advertisementhandler\\advertisementcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\handlers\\advertisementhandler\\advertisementcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified\\handlers\\loactionhandler\\cityareahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC0E03D2-992B-4B0F-8052-22E8BDF345D8}|PakClassified\\PakClassified.csproj|solutionrelative:pakclassified\\handlers\\loactionhandler\\cityareahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\user\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +71,8 @@
       "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\pakclassified\\advertisementcategorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\location\\cityareamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\location\\cityareamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.models\\pakclassified\\advertisementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7905F458-7495-49D2-A614-E685EBB363B3}|PakClassified.Models\\PakClassified.Models.csproj|solutionrelative:pakclassified.models\\pakclassified\\advertisementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\controllers\\pakclassifiedcontrollers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\controllers\\pakclassifiedcontrollers\\advertisementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|solutionrelative:pakclassified.api\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0580F9ED-DB3A-4FF7-8F61-B1BF78EF5F79}|PakClassified.API\\PakClassified.API.csproj|g:\\dotnet\\project\\pakclassfied.server\\pakclassified.api\\helper\\entitymodelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,36 +94,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CityAreaHandler.cs",
-              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
-              "RelativeDocumentMoniker": "PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
-              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
-              "RelativeToolTip": "PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAUwHcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:03:35.532Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "AdvertisementController.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
+              "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
+              "RelativeToolTip": "PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:08:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
+              "RelativeToolTip": "PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T05:23:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PakClassifiedContext.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\PakClassifiedContext.cs",
+              "RelativeDocumentMoniker": "PakClassified\\PakClassifiedContext.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\PakClassifiedContext.cs",
+              "RelativeToolTip": "PakClassified\\PakClassifiedContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:10:06.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AdvertisementHandler.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementHandler.cs",
               "RelativeDocumentMoniker": "PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementHandler.cs",
-              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementHandler.cs",
-              "RelativeToolTip": "PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementHandler.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAcwNIAAAAxAAAAAAAAAA==",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementHandler.cs*",
+              "RelativeToolTip": "PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T06:02:54.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeToolTip": "PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T13:46:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CityAreaModel.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\Location\\CityAreaModel.cs",
               "RelativeDocumentMoniker": "PakClassified.Models\\Location\\CityAreaModel.cs",
@@ -115,7 +182,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\Program.cs",
+              "RelativeDocumentMoniker": "PakClassified.Models\\Program.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\Program.cs",
+              "RelativeToolTip": "PakClassified.Models\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:24:20.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Program.cs",
+              "RelativeDocumentMoniker": "PakClassified.API\\Program.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Program.cs",
+              "RelativeToolTip": "PakClassified.API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:46:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "PakClassifiedDiagram.cd",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\PakClassifiedDiagram.cd",
+              "RelativeDocumentMoniker": "PakClassified\\PakClassifiedDiagram.cd",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\PakClassifiedDiagram.cd",
+              "RelativeToolTip": "PakClassified\\PakClassifiedDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-12-30T06:41:33.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityAreaHandler.cs",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
+              "RelativeDocumentMoniker": "PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
+              "RelativeToolTip": "PakClassified\\Handlers\\LoactionHandler\\CityAreaHandler.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwHcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:03:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PakClassified.API\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PakClassified.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T04:33:24.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AdvertisementCategoryModel.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\PakClassified\\AdvertisementCategoryModel.cs",
               "RelativeDocumentMoniker": "PakClassified.Models\\PakClassified\\AdvertisementCategoryModel.cs",
@@ -127,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "UserModel.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\User\\UserModel.cs",
               "RelativeDocumentMoniker": "PakClassified.Models\\User\\UserModel.cs",
@@ -135,12 +263,11 @@
               "RelativeToolTip": "PakClassified.Models\\User\\UserModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T06:54:09.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:54:09.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "AdvertisementCategoryHandler.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementCategoryHandler.cs",
               "RelativeDocumentMoniker": "PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementCategoryHandler.cs",
@@ -148,25 +275,11 @@
               "RelativeToolTip": "PakClassified\\Handlers\\AdvertisementHandler\\AdvertisementCategoryHandler.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAUwGkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T06:28:19.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T06:28:19.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserHandler.cs",
-              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
-              "RelativeDocumentMoniker": "PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
-              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
-              "RelativeToolTip": "PakClassified\\Handlers\\UserHandler\\UserHandler.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAuwHUAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T05:23:11.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "UserController.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\UserControllers\\UserController.cs",
               "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\UserControllers\\UserController.cs",
@@ -174,12 +287,11 @@
               "RelativeToolTip": "PakClassified.API\\Controllers\\UserControllers\\UserController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T05:27:49.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-26T05:27:49.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ForgotPasswordRequest.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\User\\ForgotPasswordRequest.cs",
               "RelativeDocumentMoniker": "PakClassified.Models\\User\\ForgotPasswordRequest.cs",
@@ -191,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ResetPasswordRequest.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\User\\ResetPasswordRequest.cs",
               "RelativeDocumentMoniker": "PakClassified.Models\\User\\ResetPasswordRequest.cs",
@@ -203,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "EntityModelHelper.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Helper\\EntityModelHelper.cs",
               "RelativeDocumentMoniker": "PakClassified.API\\Helper\\EntityModelHelper.cs",
@@ -215,31 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
-              "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
-              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
-              "RelativeToolTip": "PakClassified.API\\Controllers\\AuthController\\AuthController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAgwHsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T13:46:48.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdvertisementController.cs",
-              "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
-              "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
-              "ToolTip": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
-              "RelativeToolTip": "PakClassified.API\\Controllers\\PakClassifiedControllers\\AdvertisementController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T10:08:47.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "AdvertisementModel.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.Models\\PakClassified\\AdvertisementModel.cs",
               "RelativeDocumentMoniker": "PakClassified.Models\\PakClassified\\AdvertisementModel.cs",
@@ -251,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "AdvertisementCategory.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified\\Entities\\PakClassified\\AdvertisementCategory.cs",
               "RelativeDocumentMoniker": "PakClassified\\Entities\\PakClassified\\AdvertisementCategory.cs",
@@ -263,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "SubCategoryController.cs",
               "DocumentMoniker": "G:\\DOTNET\\PROJECT\\PakClassfied.Server\\PakClassified.API\\Controllers\\PakClassifiedControllers\\SubCategoryController.cs",
               "RelativeDocumentMoniker": "PakClassified.API\\Controllers\\PakClassifiedControllers\\SubCategoryController.cs",

@@ -71,6 +71,15 @@ export class CategoriesComponent implements OnInit {
       this.loadingservice.show();
       this.categoryservice.delete(id).subscribe({
         next: (data: any) => {
+          this.categoryservice.getAll().subscribe({
+            next: (data: any)=>  {
+              this.Category = data
+            },error:(err) => {
+              this.loadingservice.hide();
+              console.log("Error while loading.");
+               
+            },
+          })
           this.loadingservice.hide();
         },error: (err) => {
           console.log("ERROR WHILE DELETING: ", err);

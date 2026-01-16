@@ -20,19 +20,14 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("LocalHost", builder =>
-    {
-        builder.WithOrigins("http://localhost:4200") // Local is allowed
-               .AllowAnyHeader() // Allow all headers
-               .AllowAnyMethod(); // Allow all HTTP methods
-    });
-    options.AddPolicy("AllowAllOrigins", builder =>
-    {
-        builder.WithOrigins("*") // all allowed origins
-               .AllowAnyHeader() // Allow all headers
-               .AllowAnyMethod(); // Allow all HTTP methods
-    });
+    options.AddPolicy("AllowFrontend",
+        policy => policy
+            .WithOrigins("http://jaleeldeveloper.site", "https://jaleeldeveloper.site", "http://localhost:4200")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials());
 });
+
 builder.Services.AddSingleton<ICountryHandler, CountryHandler>();
 builder.Services.AddSingleton<IProvinceHanlder, ProvinceHandler>();
 builder.Services.AddSingleton<ICityHandler, CityHandler>();
@@ -44,20 +39,19 @@ builder.Services.AddSingleton<IAdvertisementTypeHandler, AdvertisementTypeHandle
 builder.Services.AddSingleton<IAdvertisementHandler, AdvertisementHandler>();
 builder.Services.AddSingleton<IRoleHandler, RoleHandler>();
 builder.Services.AddSingleton<IUserHandler , UserHandler>();
-
+builder.Services.AddScoped<IUserHandler, UserHandler>();
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+
 
 
 //app.UseHttpsRedirection();
-app.UseCors("LocalHost");
+app.UseCors("AllowFrontend");
 
 app.UseAuthorization();
 

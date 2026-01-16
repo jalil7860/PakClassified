@@ -158,7 +158,7 @@ namespace PakClassified.Handlers.AdvertisementHandler
             {
                 using (PakClassifiedContext dbContext = new PakClassifiedContext())
                 {
-                    //dbContext.Entry(request.CityArea).State = EntityState.Unchanged;
+                    
                     request.CreatedBy = 1;
                     request.CreatedDate = DateTime.Now;
 
@@ -216,10 +216,14 @@ namespace PakClassified.Handlers.AdvertisementHandler
                         .Include(a => a.Images)
                         .Include(a => a.Tags)
                         .FirstOrDefault(a => a.Id == id);
+                    if(found == null)
+                    {
+                        throw new NullReferenceException();
+                    }
 
                     if (found != null)
                     {
-                        // Individual fields update karein - entity attach nahi karein
+                
                         found.Name = request.Name;
                         found.Price = request.Price;
                         found.Description = request.Description;
@@ -236,7 +240,7 @@ namespace PakClassified.Handlers.AdvertisementHandler
                         found.ModifiedBy = 1;
 
                         dbContext.SaveChanges();
-                        return found; // Updated entity return karein
+                        return found; 
                     }
                     return null;
                 }

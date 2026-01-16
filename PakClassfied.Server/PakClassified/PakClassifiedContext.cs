@@ -48,7 +48,6 @@ namespace PakClassified
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(PakClassifiedContext).Assembly);
-            
         }
     }
 }

@@ -125,6 +125,7 @@ namespace PakClassified.Handlers.UserHandler
 
                         dbContext.Update(found);
                         dbContext.SaveChanges();
+                        
                         return found;
                     }
                     return null;

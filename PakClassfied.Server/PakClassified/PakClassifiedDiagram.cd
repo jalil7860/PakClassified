@@ -64,7 +64,7 @@
   <Class Name="PakClassified.Entities.PakClassified.Advertisement" BaseTypeListCollapsed="true">
     <Position X="3.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>gAAgAAAMAQAgAAAIAIAABAQACgAEBFAgAQAAAAAAAAQ=</HashCode>
+      <HashCode>gAAgAAAMAQAgAAAIAIABBAQACgAEBFAgAQAAAAAAAAQ=</HashCode>
       <FileName>Entities\PakClassified\Advertisement.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
@@ -78,13 +78,13 @@
   <Class Name="PakClassified.Entities.PakClassified.AdvertisementCategory" BaseTypeListCollapsed="true">
     <Position X="9" Y="3.25" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAABAAAAAAAAAQAAA=</HashCode>
       <FileName>Entities\PakClassified\AdvertisementCategory.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="PakClassified.Entities.PakClassified.AdvertisementImage">
-    <Position X="3.25" Y="5.75" Width="2.25" />
+    <Position X="3.25" Y="6" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAABAAAAAgAAAAAAAAAAAAAAAAAAAAAACAAIAAAAQAA=</HashCode>
       <FileName>Entities\PakClassified\AdvertisementImage.cs</FileName>
@@ -104,7 +104,7 @@
   <Class Name="PakClassified.Entities.PakClassified.AdvertisementSubCategory" BaseTypeListCollapsed="true">
     <Position X="6" Y="3.25" Width="2.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAAAAACAAAAAAAAACAA=</HashCode>
+      <HashCode>AAAAAAAAAAAgAgAAAAAAAAQAAAAAABCAAAAAAAAACAA=</HashCode>
       <FileName>Entities\PakClassified\AdvertisementSubCategory.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>

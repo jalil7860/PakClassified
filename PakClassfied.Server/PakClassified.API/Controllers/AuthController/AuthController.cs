@@ -27,7 +27,6 @@ namespace Project.Api.Controllers.Auth
             _configuration = configuration;
         }
 
-        // AuthController.cs - Ye new methods add karo
         [HttpPost("ForgotPassword")]
         public IActionResult ForgotPassword([FromBody] PakClassified.Models.User.ForgotPasswordRequest request)
         {

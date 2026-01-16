@@ -1,0 +1,12 @@
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Release\net8.0\PakClassified.Models.deps.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Release\net8.0\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\bin\Release\net8.0\PakClassified.Models.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.AssemblyInfoInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.AssemblyInfo.cs
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.csproj.CoreCompileInputs.cache
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.sourcelink.json
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\refint\PakClassified.Models.dll
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\PakClassified.Models.pdb
+G:\DOTNET\PROJECT\PakClassfied.Server\PakClassified.Models\obj\Release\net8.0\ref\PakClassified.Models.dll
