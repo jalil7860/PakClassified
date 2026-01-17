@@ -58,7 +58,6 @@ export class AdEditComponent implements OnInit {
     image: new FormControl('')
   });
 
-  // Form control getters
   get subCategoryId_edit() { return this.EditAdvertisementForm.get('subCategoryId'); }
   get statusId_edit() { return this.EditAdvertisementForm.get('statusId'); }
   get typeId_edit() { return this.EditAdvertisementForm.get('typeId'); }
@@ -72,7 +71,7 @@ export class AdEditComponent implements OnInit {
   selectedImage: { url: string, file: File, name: string } | null = null;
 
   ngOnInit(): void {
-    this.adId = +this.route.snapshot.params['id'];
+    this.adId = +this.route.snapshot.params['   id'];
     this.loadDropdownData();
     this.loadAdData();
   }
@@ -159,7 +158,7 @@ export class AdEditComponent implements OnInit {
     if (file) {
       this.processFile(file);
       const reader = new FileReader();
-      reader.onload = () => {
+      reader.onload =   () => {
         const base64String = reader.result as string;
         this.EditAdvertisementForm.get('image')?.setValue(base64String);
       };
