@@ -12,6 +12,7 @@ import { User } from '../../Core/Model/User/User.model';
   templateUrl: './user-edit.component.html',
   styleUrl: './user-edit.component.css'
 })
+//User Edit Section
 export class UserEditComponent implements OnInit {
   private fb = inject(FormBuilder);
   private authService = inject(AuthService);
