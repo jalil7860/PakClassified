@@ -13,6 +13,7 @@ import { User } from '../../Core/Model/User/User.model';
   styleUrl: './user-edit.component.css'
 })
 //User Edit Section
+//some updates
 export class UserEditComponent implements OnInit {
   private fb = inject(FormBuilder);
   private authService = inject(AuthService);
